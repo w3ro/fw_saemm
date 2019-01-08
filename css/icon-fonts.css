@@ -1,0 +1,34 @@
+/* Reglas de tamaño de icono. */
+.material-icons.md-1t {
+  font-size: 1rem;
+}
+
+.material-icons.md-2t {
+  font-size: 1.5rem;
+}
+
+.material-icons.md-3t {
+  font-size: 2rem;
+}
+
+.material-icons.md-4t {
+  font-size: 2.8rem;
+}
+
+/* Reglas para usar iconos negros sobre blanco. */
+.material-icons.md-dark {
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.material-icons.md-dark.md-inactive {
+  color: rgba(0, 0, 0, 0.26);
+}
+
+/* Reglas para usar iconos blancos sobre negros. */
+.material-icons.md-light {
+  color: rgba(255, 255, 255, 1);
+}
+
+.material-icons.md-light.md-inactive {
+  color: rgba(255, 255, 255, 0.3);
+}
