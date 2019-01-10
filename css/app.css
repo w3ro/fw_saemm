@@ -5,7 +5,7 @@ body {
 }
 
 .sup {
-  border-bottom: solid 2px #A2BF0A
+  border-bottom: solid 2px #F06556
 }
 
 .top-bar {
@@ -28,6 +28,12 @@ div#submenu ul {
 .display-top {
   margin-top: 1rem!important;
 }
+.escudo {
+	width: 150px;
+	border-right: solid 1px;
+	padding-right: 1rem;
+	float:left;
+}
 
 @media print, screen and (min-width: 40em) {
   ul.menu>li#app {
@@ -40,12 +46,8 @@ div#submenu ul {
   }
 
   .menuSubnav {
-    background: #A2BF0A;
+    background: #F06556;
     color: #fff
-  }
-
-  .sticky-container {
-    height: auto !important;
   }
 }
 
@@ -107,7 +109,7 @@ figcaption.orbit-caption a {
 }
 
 .footer {
-  background-color: #A2BF0A;
+  background-color: #F06556;
   text-align: center;
   font-size: 1.2rem;
   padding: 2rem 0;
@@ -210,7 +212,7 @@ hr.hrheader:before {
   content: " ";
   width: 50px;
   height: 3px;
-  background-color: #A2BF0A;
+  background-color: #F06556;
   position: absolute
 }
 
