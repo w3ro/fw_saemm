@@ -40,7 +40,7 @@
     <div class="title-bar-title">Menú</div>
   </div>
   <div class="top-bar sup" id="responsive-menu" data-sticky data-options="marginTop:0;">
-    <div class="top-bar-left">
+    <div class="top-bar-left"> <img src="img/png/gem.png" class="escudo"/>
       <ul class="dropdown menu" data-dropdown-menu>
         <li><a href="index.html"><strong>SESAEMM</strong></a></li>
         <li><a href="acerca.html">Acerca</a></li>
@@ -54,7 +54,7 @@
       <div class="menu input-group"> <span class="input-group-label"><i class="material-icons"> search </i></span>
         <input type="search" placeholder="Ingresa tu b&uacute;squeda" class="input-group-field">
         <div class="input-group-button">
-          <input type="submit" class="button" value="Buscar">
+          <input type="submit" class="button success" value="Buscar">
         </div>
       </div>
     </div>
@@ -64,41 +64,37 @@
 
 <!-- Inicio de contenido --> 
 <!-- InstanceBeginEditable name="Contenido principal" -->
-	<div class="grid-container">
-		<div class="grid-x grid-margin-x">
-			<div class="large-12">
 				<!-- Inicio de slider -->
 				<div class="orbit" role="region" aria-label="Hero SESAEMM" data-orbit>
 					<ul class="orbit-container">
 						<button class="orbit-previous"><span class="show-for-sr">Anteriro</span>&#9664;&#xFE0E;</button>
 						<button class="orbit-next"><span class="show-for-sr">Siguiente</span>&#9654;&#xFE0E;</button>
-						<li class="is-active orbit-slide">
-							<img class="orbit-image" src="img/png/banner-navidad.png" alt="Navidad">
-							<!--<figcaption class="orbit-caption">Space, the final frontier.</figcaption>-->
+						<li class="orbit-slide">
+							<img class="orbit-image" src="img/jpg/banner-ejemplo.jpg" alt="SESAEMM">
+							<figcaption class="orbit-caption">SESAEMM - Secretaría Ejecutiva del Sistema Anticorrupción del Estado de México y Municipios</figcaption>
 						</li>
 						<li class="orbit-slide">
-							<img class="orbit-image" src="img/png/banner-sesaemm.png" alt="SESAEMM">
-							<!--<figcaption class="orbit-caption">Space, the final frontier.</figcaption>-->
-						</li>
-						<li class="orbit-slide"> <a href="https://www.secogem.gob.mx/Portal2/documentos/GUIA_SISTEMA_ANTICORRUPCION_EDOMEX.pdf" target="new"><img class="orbit-image" src="img/png/banner-guia.png" alt="Guía"></a>
-							<!--<figcaption class="orbit-caption">Lets Rocket!</figcaption>-->
+							<img class="orbit-image" src="img/png/banner-ejemplo.png" alt="SESAEMM">
+							<figcaption class="orbit-caption">En la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de México y Municipios ¡trabajamos para servirte!</figcaption>
 						</li>
 					</ul>
 					<nav class="orbit-bullets">
-						<button class="is-active" data-slide="0"><span class="show-for-sr">Felices fiestas</span><span class="show-for-sr">Current Slide</span></button>
-						<button data-slide="1"><span class="show-for-sr">SESAEMM</span></button>
-						<button data-slide="2"><span class="show-for-sr">Guía</span></button>
+						<button data-slide="0"><span class="show-for-sr">SESAEMM</span></button>
+						<button data-slide="1"><span class="show-for-sr">SESAEMM, ¡trabajamos para servirte!</span></button>
 					</nav>
-				</div>
-				<!-- Fin de slider -->
+				</div>			
+	<div class="grid-container">
+		<div class="grid-x grid-margin-x">
+			<div class="large-12">
+            <!-- Fin de slider -->
 				<!-- Inicio de enlaces centrales -->
 				<div class="grid-x grid-margin-x" data-equalizer data-equalize-on="medium" id="test-eq">
 					<div class="cell medium-3">
 						<div class="cell">
 							<div class="card" data-equalizer-watch>
-								<img src="img/png/SE.png" height="117" width="117">
+								<a href="secretariaEjecutiva.html"><img src="img/png/SE.png" height="117" width="117"></a>
 								<div class="card-section">
-									<h4>Secretaría Ejecutiva.</h4>
+									<h4><a href="secretariaEjecutiva.html">Secretaría Ejecutiva.</a></h4>
 									<p><a href="secretariaEjecutiva.html">Órgano de apoyo técnico del Comité Coordinador.</a></p>
 								</div>
 							</div>
@@ -107,9 +103,9 @@
 					<div class="cell medium-3">
 						<div class="cell">
 							<div class="card" data-equalizer-watch>
-								<img src="img/png/CC.png" height="117" width="117">
+								<a href="comiteCoordinador.html"><img src="img/png/CC.png" height="117" width="117"></a>
 								<div class="card-section">
-									<h4>Comité Coordinador.</h4>
+									<h4><a href="comiteCoordinador.html">Comité Coordinador.</a></h4>
 									<p><a href="comiteCoordinador.html">Instancia encargada de la coordinación y eficacia del SAEM.</a></p>
 								</div>
 							</div>
@@ -118,9 +114,9 @@
 					<div class="cell medium-3">
 						<div class="cell">
 							<div class="card" data-equalizer-watch>
-								<img src="img/png/CE.png" height="117" width="117">
+								<a href="comisionEjecutiva.html"><img src="img/png/CE.png" height="117" width="117"></a>
 								<div class="card-section">
-									<h4>Comisión Ejecutiva.</h4>
+									<h4><a href="comisionEjecutiva.html">Comisión Ejecutiva.</a></h4>
 									<p><a href="comisionEjecutiva.html">Órgano técnico auxiliar de la SE.</a></p>
 								</div>
 							</div>
@@ -129,9 +125,9 @@
 					<div class="cell medium-3">
 						<div class="cell">
 							<div class="card" data-equalizer-watch>
-								<img src="img/png/SMA.png" height="117" width="117">
+								<a href="sistemasMunicipales.html"><img src="img/png/SMA.png" height="117" width="117"></a>
 								<div class="card-section">
-									<h4>Sistemas Municipales Anticorrupción.</h4>
+									<h4><a href="sistemasMunicipales.html">Sistemas Municipales Anticorrupción.</a></h4>
 									<p><a href="sistemasMunicipales.html">Conoce el avance en su instalación.</a></p>
 								</div>
 							</div>
@@ -142,10 +138,10 @@
 					<div class="cell medium-4">
 						<div class="cell">
 							<div class="card" data-equalizer-watch>
-								<img src="img/png/CPC.png" height="117" width="117">
+								<a href="http://cpcedomex.org.mx/" target="_new"><img src="img/png/CPC.png" height="117" width="117"></a>
 								<div class="card-section">
-									<h4>Comité de Participación Ciudadana.</h4>
-									<p><a href="participacionCiudadana.html">Entérate qué es el CPC y sus funciones dentro del SAEM.</a></p>
+									<h4><a href="http://cpcedomex.org.mx/" target="_new">Comité de Participación Ciudadana.</a></h4>
+									<p><a href="http://cpcedomex.org.mx/" target="_blank">Entérate qué es el CPC y sus funciones dentro del SAEM.</a></p>
 								</div>
 							</div>
 						</div>
@@ -153,9 +149,9 @@
 					<div class="cell medium-4">
 						<div class="cell">
 							<div class="card" data-equalizer-watch>
-								<img src="img/png/OG.png" height="117" width="117">
+								<a href="organoGobierno.html"><img src="img/png/OG.png" height="117" width="117"></a>
 								<div class="card-section">
-									<h4>Órgano de Gobierno.</h4>
+									<h4><a href="organoGobierno.html">Órgano de Gobierno.</a></h4>
 									<p><a href="organoGobierno.html">Conoce qué es el Órgano de Gobierno y los acuerdos que han emitido.</a></p>
 								</div>
 							</div>
@@ -164,9 +160,9 @@
 					<div class="cell medium-4">
 						<div class="cell">
 							<div class="card" data-equalizer-watch>
-								<img src="img/png/INF.png" height="117" width="117">
+								<a href="informacionRelevante.html"><img src="img/png/INF.png" height="117" width="117"></a>
 								<div class="card-section">
-									<h4>Información Relevante.</h4>
+									<h4><a href="informacionRelevante.html">Información Relevante.</a></h4>
 									<p><a href="informacionRelevante.html">Avisos de interés a la ciudadanía.</a></p>
 								</div>
 							</div>
