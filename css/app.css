@@ -55,6 +55,16 @@ div#submenu ul {
   div#barrasup {
     margin-bottom: 40px !important;
   }
+  div.sup > div.top-bar-left > ul.dropdown.menu {
+	  -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
 }
 
 .button {
@@ -116,9 +126,13 @@ figcaption.orbit-caption a {
   margin-top: 2rem;
 }
 
-.footer .contact,
-.footer .social {
+.footer .contact {
   text-align: left;
+  margin: 0
+}
+
+.footer .social {
+  text-align: center;
   margin: 0
 }
 
