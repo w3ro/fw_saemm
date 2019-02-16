@@ -1,4 +1,4 @@
-﻿{
+{
   "pagination": {
     "page_size": 100,
     "page": 20,
@@ -228,12 +228,10 @@
             "cargo_puesto": "Jefe de Departamento",
             "fecha_ingreso": "2010-07-26",
             "fecha_salida": "2010-07-26",
-            "funciones_principales": [
-              {
-                "codigo": "ABI",
-                "valor": "Administración de bienes"
-              }
-            ]
+            "funciones_principales": {
+              "codigo": "JUD",
+              "valor": "Judicial"
+            }
           }
         ],
         "dependientes_economicos": [
