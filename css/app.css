@@ -246,3 +246,7 @@ hr.hrheader:before {
 .menu.nested.navega {
     margin-left: 2.5rem;
 }
+
+.tabs-content {
+    border: 0;
+}
