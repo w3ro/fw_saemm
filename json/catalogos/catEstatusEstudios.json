@@ -1,14 +1,1 @@
-[
-  {
-    "codigo": "FIN",
-    "valor": "Finalizado"
-  },
-  {
-    "codigo": "TRUN",
-    "valor": "Trunco"
-  },
-  {
-    "codigo": "CURS",
-    "valor": "Cursando"
-  }
-]
+{"catalogo":"EstatusEstudios","properties":[{"codigo":"FIN","valor":"Finalizado"},{"codigo":"TRUN","valor":"Trunco"},{"codigo":"CURS","valor":"Cursando"}]}
