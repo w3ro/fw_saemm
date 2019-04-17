@@ -1,18 +1,1 @@
-[
-  {
-    "codigo": "INSTF",
-    "valor": "Institución Financiera"
-  },
-  {
-    "codigo": "PFIS",
-    "valor": "Persona Física"
-  },
-  {
-    "codigo": "OTRO",
-    "valor": "Otro (especifique)"
-  },
-  {
-    "codigo": "PMNF",
-    "valor": "Persona Moral No Financiera"
-  }
-]
+{"catalogo":"TipoAcreedor","properties":[{"codigo":"INSTF","valor":"Institución Financiera"},{"codigo":"PFIS","valor":"Persona Física"},{"codigo":"OTRO","valor":"Otro (especifique)"},{"codigo":"PMNF","valor":"Persona Moral No Financiera"}]}
