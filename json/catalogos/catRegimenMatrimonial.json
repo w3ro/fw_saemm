@@ -1,1 +1,3 @@
-{"catalogo":"RegimenMatrimonial","properties":[{"codigo":"SBI","valor":"Separación de Bienes"},{"codigo":"MIX","valor":"Mixto"},{"codigo":"SCO","valor":"Sociedad Conyugal"}]}
+{"codigo":"SBI","valor":"Separación de Bienes"}
+{"codigo":"MIX","valor":"Mixto"}
+{"codigo":"SCO","valor":"Sociedad Conyugal"}

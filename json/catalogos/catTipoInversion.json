@@ -1,1 +1,4 @@
-{"catalogo":"TipoInversion","properties":[{"codigo":"INVS","valor":"Inversiones"},{"codigo":"CTAS","valor":"Cuentas"},{"codigo":"OTRO","valor":"Otro (especifique)"},{"codigo":"VALS","valor":"Valores"}]}
+{"codigo":"INVS","valor":"Inversiones"}
+{"codigo":"CTAS","valor":"Cuentas"}
+{"codigo":"OTRO","valor":"Otro (especifique)"}
+{"codigo":"VALS","valor":"Valores"}

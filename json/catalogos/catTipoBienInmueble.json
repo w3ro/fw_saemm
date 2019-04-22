@@ -1,1 +1,4 @@
-{"catalogo":"TipoBienInmueble","properties":[{"codigo":"CAS","valor":"Casa"},{"codigo":"TRN","valor":"Terreno"},{"codigo":"DPT","valor":"Departamento"},{"codigo":"OTRO","valor":"Otro (especifique)"}]}
+{"codigo":"CAS","valor":"Casa"}
+{"codigo":"TRN","valor":"Terreno"}
+{"codigo":"DPT","valor":"Departamento"}
+{"codigo":"OTRO","valor":"Otro (especifique)"}

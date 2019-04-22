@@ -1,1 +1,3 @@
-{"catalogo":"NivelOrdenGobierno","properties":[{"codigo":"FED","valor":"Federal"},{"codigo":"EST","valor":"Estatal"},{"codigo":"MUN","valor":"Municipal"}]}
+[{"codigo":"FED","valor":"Federal"}
+{"codigo":"EST","valor":"Estatal"}
+{"codigo":"MUN","valor":"Municipal"}

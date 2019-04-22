@@ -1,1 +1,4 @@
-{"catalogo":"TipoOperacion2","properties":[{"codigo":"INCP","valor":"Incorporación"},{"codigo":"VNT","valor":"Venta"},{"codigo":"SCAMB","valor":"Sin cambio"},{"codigo":"OTRO","valor":"Otro (especifique)"}]}
+{"codigo":"INCP","valor":"Incorporación"}
+{"codigo":"VNT","valor":"Venta"}
+{"codigo":"SCAMB","valor":"Sin cambio"}
+{"codigo":"OTRO","valor":"Otro (especifique)"}

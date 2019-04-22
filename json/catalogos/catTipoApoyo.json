@@ -1,1 +1,4 @@
-{"catalogo":"TipoApoyo","properties":[{"codigo":"OBRA","valor":"Obra"},{"codigo":"SERV","valor":"Servicio"},{"codigo":"OTRO","valor":"Otro (especifique)"},{"codigo":"SUBS","valor":"Subsidio"}]}
+{"codigo":"OBRA","valor":"Obra"}
+{"codigo":"SERV","valor":"Servicio"}
+{"codigo":"OTRO","valor":"Otro (especifique)"}
+{"codigo":"SUBS","valor":"Subsidio"}
