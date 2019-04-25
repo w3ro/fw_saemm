@@ -1,257 +1,252 @@
-{"poder":"ejecutivo","ente":"Gubernatura","codigo":"eje-001","valor":"Gubernatura"}
-{"poder":"ejecutivo","ente":"Gubernatura","codigo":"eje-002","valor":"Sistema para el Desarrollo Integral de la Familia del Estado de México"}
-{"poder":"ejecutivo","ente":"Gubernatura","codigo":"eje-003","valor":"Sistema de Radio y Televisión Mexiquense"}
-{"poder":"ejecutivo","ente":"Gubernatura","codigo":"eje-004","valor":"Coordinación General de Comunicación Social"}
-{"poder":"ejecutivo","ente":"Secretaría Técnica del Gabinete","codigo":"eje-005","valor":"Secretaría Técnica del Gabinete"}
-{"poder":"ejecutivo","ente":"Secretaría General de Gobierno","codigo":"eje-006","valor":"Secretaría General de Gobierno"}
-{"poder":"ejecutivo","ente":"Secretaría General de Gobierno","codigo":"eje-007","valor":"Centro de Control de Confianza del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría General de Gobierno","codigo":"eje-008","valor":"Instituto Mexiquense de la Pirotecnia"}
-{"poder":"ejecutivo","ente":"Secretaría General de Gobierno","codigo":"eje-009","valor":"Instituto Mexiquense de Seguridad y Justicia"}
-{"poder":"ejecutivo","ente":"Secretaría General de Gobierno","codigo":"eje-010","valor":"Procuraduría del Colono del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría General de Gobierno","codigo":"eje-011","valor":"entedo Ejecutivo del Sistema Estatal de Seguridad Pública"}
-{"poder":"ejecutivo","ente":"Comisión Estatal de Seguridad Pública","codigo":"eje-012","valor":"Comisión Estatal de Seguridad Pública"}
-{"poder":"ejecutivo","ente":"Secretaría de Seguridad del Estado de México","codigo":"eje-013","valor":"Secretaría de Seguridad del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Finanzas","codigo":"eje-014","valor":"Secretaría de Finanzas"}
-{"poder":"ejecutivo","ente":"Secretaría de Finanzas","codigo":"eje-015","valor":"Instituto de Información"}
-{"poder":"ejecutivo","ente":"Secretaría de Finanzas","codigo":"eje-016","valor":"Comité  de Planeación para el Desarrollo del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Finanzas","codigo":"eje-017","valor":"Instituto de Hacendario del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Finanzas","codigo":"eje-018","valor":"Instituto de Seguridad Social del Estado de México y Municipios"}
-{"poder":"ejecutivo","ente":"Secretaría de Finanzas","codigo":"eje-019","valor":"Consejo Mexiquense de Ciencia y Tecnología"}
-{"poder":"ejecutivo","ente":"Secretaría de Finanzas","codigo":"eje-020","valor":"Instituto de la Administración Pública del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Finanzas","codigo":"eje-021","valor":"Fideicomiso C3"}
-{"poder":"ejecutivo","ente":"Secretaría de Comunicaciones","codigo":"eje-022","valor":"Secretaría de Comunicaciones"}
-{"poder":"ejecutivo","ente":"Secretaría de Obra Pública","codigo":"eje-023","valor":"Secretaría de Obra Pública"}
-{"poder":"ejecutivo","ente":"Secretaría del Trabajo","codigo":"eje-024","valor":"Secretaría del Trabajo"}
-{"poder":"ejecutivo","ente":"Secretaría del Trabajo","codigo":"eje-025","valor":"Instituto de Capacitación y Adiestramiento para el Trabajo Industrial"}
-{"poder":"ejecutivo","ente":"Secretaría del Trabajo","codigo":"eje-026","valor":"Junta Local de Conciliación y Arbitraje Valle de Toluca"}
-{"poder":"ejecutivo","ente":"Secretaría del Trabajo","codigo":"eje-027","valor":"Tribunal Estatal de Conciliación y Arbitraje"}
-{"poder":"ejecutivo","ente":"Secretaría del Trabajo","codigo":"eje-028","valor":"Junta Local de Conciliación y Arbitraje Valle Cuautitlán-Texcoco"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-029","valor":"Secretaría de Educación"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-030","valor":"Instituto Mexiquense de Cultura"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-031","valor":"Tecnológico de Estudios Superiores de Ixtapaluca"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-032","valor":"Tecnológico de Estudios Superiores de Villa Guerrero"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-033","valor":"Tecnológico de Estudios Superiores de San Felipe del Progreso"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-034","valor":"Tecnológico de Estudios Superiores de Chimalhuacán"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-035","valor":"Universidad Estatal del Valle de Ecatepec"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-036","valor":"Universidad Tecnológica del Valle de Toluca"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-037","valor":"Instituto Mexiquense de Cultura Física y Deporte"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-038","valor":"Universidad Intercultural del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-039","valor":"Universidad Politécnica del Valle de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-040","valor":"Universidad Politécnica del Valle de Toluca"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-041","valor":"Universidad Digital del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-042","valor":"Universidad Politécnica de Tecámac"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-043","valor":"Servicios Educativos Integrados al Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-044","valor":"Tecnológico de Estudios Superiores de Ecatepec"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-045","valor":"Universidad Tecnológica de Netzahualcóyotl"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-046","valor":"Colegio de Estudios Científicos y Tecnológicos"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-047","valor":"Universidad Tecnológica Fidel Velázquez"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-048","valor":"Universidad Tecnológica de Tecámac"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-049","valor":"Colegio de Bachilleres del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-050","valor":"Tecnológico de Estudios Superiores de Coacalco"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-051","valor":"Universidad Tecnológica del Sur del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-052","valor":"Tecnológico de Estudios Superiores de Cuautitlán Izcalli"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-053","valor":"Tecnológico de Estudios Superiores del Oriente del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-054","valor":"Tecnológico de Estudios Superiores de Huixquilucan"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-055","valor":"Tecnológico de Estudios Superiores de Jilotepec"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-056","valor":"Tecnológico de Estudios Superiores de Tianguistenco"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-057","valor":"Instituto Mexiquense de la Infraestructura Física Educativa"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-058","valor":"Tecnológico de Estudios Superiores de Chalco"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-059","valor":"Tecnológico de Estudios Superiores de Chicoloapan"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-060","valor":"Tecnológico de Estudios Superiores de Jocotitlán"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-061","valor":"Colegio de Educación Profesional Técnica"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-062","valor":"Tecnológico de Estudios Superiores de Valle de Bravo"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-063","valor":"Universidad Estatal del Valle de Toluca"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-064","valor":"Universidad Mexiquense del Bicentenario"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-065","valor":"Universidad Politécnica de Texcoco"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-066","valor":"Instituto de Evaluación Educativa del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-067","valor":"Universidad Politécnica de Atlacomulco"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-068","valor":"Universidad Politécnica de Atlautla"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-069","valor":"Centro Regional de Formación Docente e Investigación Educativa"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-070","valor":"Universidad Politécnica de Cuautitlán Izcalli"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-071","valor":"Universidad Politécnica de Otzolotepec"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-072","valor":"Universidad Politécnica de Chimalhuacan"}
-{"poder":"ejecutivo","ente":"Secretaría de Educación","codigo":"eje-073","valor":"Universidad Tecnológica de Zinacantepec"}
-{"poder":"ejecutivo","ente":"Secretaría del Agua y Obra Pública","codigo":"eje-074","valor":"Secretaría del Agua y Obra Pública"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Agropecuario","codigo":"eje-075","valor":"Secretaría de Desarrollo Agropecuario"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Agropecuario","codigo":"eje-076","valor":"Instituto de Investigación y Capacitación Agropecuaria"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Económico","codigo":"eje-077","valor":"Secretaría de Desarrollo Económico"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Económico","codigo":"eje-078","valor":"Fideicomiso para el Desarrollo de Parques Industriales del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Económico","codigo":"eje-079","valor":"Instituto de Fomento Minero y Estudios Geológicos del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Económico","codigo":"eje-080","valor":"Instituto Mexiquense del Emprendedor"}
-{"poder":"ejecutivo","ente":"Secretaría de la Contraloría","codigo":"eje-081","valor":"Secretaría de la Contraloría"}
-{"poder":"ejecutivo","ente":"Secretaría de la Contraloría","codigo":"eje-082","valor":"Inspección General de las Instituciones de Seguridad Pública del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Comunicaciones","codigo":"eje-083","valor":"Secretaría de Comunicaciones"}
-{"poder":"ejecutivo","ente":"Secretaría del Medio Ambiente","codigo":"eje-084","valor":"Secretaría del Medio Ambiente"}
-{"poder":"ejecutivo","ente":"Secretaría del Medio Ambiente","codigo":"eje-085","valor":"Comisión Estatal de Parques Naturales y de la Fauna"}
-{"poder":"ejecutivo","ente":"Secretaría del Medio Ambiente","codigo":"eje-086","valor":"Reciclagua Ambiental S.A. de C.V."}
-{"poder":"ejecutivo","ente":"Secretaría del Medio Ambiente","codigo":"eje-087","valor":"Procuraduría de Protección al Ambiente del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría del Medio Ambiente","codigo":"eje-088","valor":"Protectora de Bosques del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría del Medio Ambiente","codigo":"eje-089","valor":"Instituto Estatal de Energía y Cambio Climático"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Social","codigo":"eje-090","valor":"Secretaría de Desarrollo Social"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Social","codigo":"eje-091","valor":"Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Social","codigo":"eje-092","valor":"Consejo Estatal de la Mujer y Bienestar Social"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Social","codigo":"eje-093","valor":"Instituto Mexiquense de la Juventud"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Social","codigo":"eje-094","valor":"Junta de Asistencia Privada"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Social","codigo":"eje-095","valor":"Consejo de Investigación y Evaluación de la Política Social"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Metropolitano","codigo":"eje-096","valor":"Secretaría de Desarrollo Metropolitano"}
-{"poder":"ejecutivo","ente":"Secretaría de Salud","codigo":"eje-097","valor":"Secretaría de Salud"}
-{"poder":"ejecutivo","ente":"Secretaría de Salud","codigo":"eje-098","valor":"Instituto de Salud del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Salud","codigo":"eje-099","valor":"Comisión de Conciliación y Arbitraje Médico del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Salud","codigo":"eje-100","valor":"Instituto Materno Infantil del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Salud","codigo":"eje-101","valor":"Hospital Regional de Alta Especialidad de Zumpango"}
-{"poder":"ejecutivo","ente":"Secretaría de Salud","codigo":"eje-102","valor":"Banco de Tejidos del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Salud","codigo":"eje-103","valor":"Comisión para la Protección Contra Riesgos Sanitarios del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Salud","codigo":"eje-104","valor":"Régimen Estatal de Protección Social en Salud"}
-{"poder":"ejecutivo","ente":"Secretaría de Movilidad","codigo":"eje-105","valor":"Secretaría de Movilidad"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Urbano y Metropolitano","codigo":"eje-106","valor":"Secretaría de Desarrollo Urbano y Metropolitano"}
-{"poder":"ejecutivo","ente":"Secretaría de Desarrollo Urbano y Metropolitano","codigo":"eje-107","valor":"Instituto Mexiquense de la Vivienda Social"}
-{"poder":"ejecutivo","ente":"Secretaría de Turismo","codigo":"eje-108","valor":"Secretaría de Turismo"}
-{"poder":"ejecutivo","ente":"Secretaría de Turismo","codigo":"eje-109","valor":"Instituto de Investigación y Fomento de las Artesanías del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Turismo","codigo":"eje-110","valor":"Comisión para el Desarrollo Turístico del Valle de Teotihuacán"}
-{"poder":"ejecutivo","ente":"Procuraduría General de Justicia","codigo":"eje-111","valor":"Procuraduría General de Justicia"}
-{"poder":"ejecutivo","ente":"Consejería Jurídica del Ejecutivo Estatal","codigo":"eje-112","valor":"Consejería Jurídica del Ejecutivo Estatal"}
-{"poder":"ejecutivo","ente":"Secretaría de Justicia y Derechos Humanos","codigo":"eje-113","valor":"Secretaría de Justicia y Derechos Humanos"}
-{"poder":"ejecutivo","ente":"Secretaría de Justicia y Derechos Humanos","codigo":"eje-114","valor":"Instituto de la Función Registral del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Cultura del Estado de México","codigo":"eje-115","valor":"Secretaría de Cultura del Estado de México"}
-{"poder":"ejecutivo","ente":"Tribunal de lo Contencioso Administrativo","codigo":"eje-116","valor":"Tribunal de lo Contencioso Administrativo"}
-{"poder":"ejecutivo","ente":"Secretaría de Infraestructura","codigo":"eje-117","valor":"Secretaría de Infraestructura"}
-{"poder":"ejecutivo","ente":"Secretaría de Infraestructura","codigo":"eje-118","valor":"Junta de Caminos del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Infraestructura","codigo":"eje-119","valor":"Sistema de Autopistas"}
-{"poder":"ejecutivo","ente":"Secretaría de Infraestructura","codigo":"eje-120","valor":"Sistema de Transporte Masivo y Teleférico del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Infraestructura","codigo":"eje-121","valor":"Comisión del Agua del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría de Infraestructura","codigo":"eje-122","valor":"Comisión Técnica del Agua del Estado de México"}
-{"poder":"ejecutivo","ente":"Secretaría Ejecutiva del Sistema Estatal Anticorrupción","codigo":"eje-123","valor":"Secretaría Ejecutiva del Sistema Estatal Anticorrupción"}
-{"poder":"legislativo","ente":"Legislatura","codigo":"leg-001","valor":"Legislatura"}
-{"poder":"judicial","ente":"Judicatura","codigo":"jud-001","valor":"Legislatura"}
-{"poder":"municipio","ente":"Acambay","codigo":"mun-001","valor":"Acambay"}
-{"poder":"municipio","ente":"Acolman","codigo":"mun-002","valor":"Acolman"}
-{"poder":"municipio","ente":"Aculco","codigo":"mun-003","valor":"Aculco"}
-{"poder":"municipio","ente":"Almoloya de Alquisiras","codigo":"mun-004","valor":"Almoloya de Alquisiras"}
-{"poder":"municipio","ente":"Almoloya de Juárez","codigo":"mun-005","valor":"Almoloya de Juárez"}
-{"poder":"municipio","ente":"Almoloya del Río","codigo":"mun-006","valor":"Almoloya del Río"}
-{"poder":"municipio","ente":"Amanalco","codigo":"mun-007","valor":"Amanalco"}
-{"poder":"municipio","ente":"Amatepec","codigo":"mun-008","valor":"Amatepec"}
-{"poder":"municipio","ente":"Amecameca","codigo":"mun-009","valor":"Amecameca"}
-{"poder":"municipio","ente":"Apaxco","codigo":"mun-010","valor":"Apaxco"}
-{"poder":"municipio","ente":"Atenco","codigo":"mun-011","valor":"Atenco"}
-{"poder":"municipio","ente":"Atizapán","codigo":"mun-012","valor":"Atizapán"}
-{"poder":"municipio","ente":"Atizapán de Zaragoza","codigo":"mun-013","valor":"Atizapán de Zaragoza"}
-{"poder":"municipio","ente":"Atlacomulco","codigo":"mun-014","valor":"Atlacomulco"}
-{"poder":"municipio","ente":"Atlautla","codigo":"mun-015","valor":"Atlautla"}
-{"poder":"municipio","ente":"Axapusco","codigo":"mun-016","valor":"Axapusco"}
-{"poder":"municipio","ente":"Ayapango","codigo":"mun-017","valor":"Ayapango"}
-{"poder":"municipio","ente":"Calimaya","codigo":"mun-018","valor":"Calimaya"}
-{"poder":"municipio","ente":"Capulhuac","codigo":"mun-019","valor":"Capulhuac"}
-{"poder":"municipio","ente":"Chalco","codigo":"mun-020","valor":"Chalco"}
-{"poder":"municipio","ente":"Chapa de Motal","codigo":"mun-021","valor":"Chapa de Motal"}
-{"poder":"municipio","ente":"Chapultepec","codigo":"mun-022","valor":"Chapultepec"}
-{"poder":"municipio","ente":"Chiautla","codigo":"mun-023","valor":"Chiautla"}
-{"poder":"municipio","ente":"Chicoloapan","codigo":"mun-024","valor":"Chicoloapan"}
-{"poder":"municipio","ente":"Chiconcuac","codigo":"mun-025","valor":"Chiconcuac"}
-{"poder":"municipio","ente":"Chimalhuacán","codigo":"mun-026","valor":"Chimalhuacán"}
-{"poder":"municipio","ente":"Coacalco de Berriozabal","codigo":"mun-027","valor":"Coacalco de Berriozabal"}
-{"poder":"municipio","ente":"Coatepec Harinas","codigo":"mun-028","valor":"Coatepec Harinas"}
-{"poder":"municipio","ente":"Cocotitlán","codigo":"mun-029","valor":"Cocotitlán"}
-{"poder":"municipio","ente":"Coyotepec","codigo":"mun-030","valor":"Coyotepec"}
-{"poder":"municipio","ente":"Cuautitlán","codigo":"mun-031","valor":"Cuautitlán"}
-{"poder":"municipio","ente":"Cuautitlán Izcalli","codigo":"mun-032","valor":"Cuautitlán Izcalli"}
-{"poder":"municipio","ente":"Donato Guerra","codigo":"mun-033","valor":"Donato Guerra"}
-{"poder":"municipio","ente":"Ecatepec de Morelos","codigo":"mun-034","valor":"Ecatepec de Morelos"}
-{"poder":"municipio","ente":"Ecatzingo","codigo":"mun-035","valor":"Ecatzingo"}
-{"poder":"municipio","ente":"El Oro","codigo":"mun-036","valor":"El Oro"}
-{"poder":"municipio","ente":"Huehuetoca","codigo":"mun-037","valor":"Huehuetoca"}
-{"poder":"municipio","ente":"Hueypoxtla","codigo":"mun-038","valor":"Hueypoxtla"}
-{"poder":"municipio","ente":"Huixquilucan","codigo":"mun-039","valor":"Huixquilucan"}
-{"poder":"municipio","ente":"Isidro Fabela","codigo":"mun-040","valor":"Isidro Fabela"}
-{"poder":"municipio","ente":"Ixtapaluca","codigo":"mun-041","valor":"Ixtapaluca"}
-{"poder":"municipio","ente":"Ixtapan de la Sal","codigo":"mun-042","valor":"Ixtapan de la Sal"}
-{"poder":"municipio","ente":"Ixtapan del Oro","codigo":"mun-043","valor":"Ixtapan del Oro"}
-{"poder":"municipio","ente":"Ixtlahuaca","codigo":"mun-044","valor":"Ixtlahuaca"}
-{"poder":"municipio","ente":"Jaltenco","codigo":"mun-045","valor":"Jaltenco"}
-{"poder":"municipio","ente":"Jilotepec","codigo":"mun-046","valor":"Jilotepec"}
-{"poder":"municipio","ente":"Jilotzingo","codigo":"mun-047","valor":"Jilotzingo"}
-{"poder":"municipio","ente":"Jiquipilco","codigo":"mun-048","valor":"Jiquipilco"}
-{"poder":"municipio","ente":"Jocotitlán","codigo":"mun-049","valor":"Jocotitlán"}
-{"poder":"municipio","ente":"Joquicingo","codigo":"mun-050","valor":"Joquicingo"}
-{"poder":"municipio","ente":"Juchitepec","codigo":"mun-051","valor":"Juchitepec"}
-{"poder":"municipio","ente":"La Paz","codigo":"mun-052","valor":"La Paz"}
-{"poder":"municipio","ente":"Lerma","codigo":"mun-053","valor":"Lerma"}
-{"poder":"municipio","ente":"Luvianos","codigo":"mun-054","valor":"Luvianos"}
-{"poder":"municipio","ente":"Malinalco","codigo":"mun-055","valor":"Malinalco"}
-{"poder":"municipio","ente":"Melchor Ocampo","codigo":"mun-056","valor":"Melchor Ocampo"}
-{"poder":"municipio","ente":"Metepec","codigo":"mun-057","valor":"Metepec"}
-{"poder":"municipio","ente":"Mexicaltzingo","codigo":"mun-058","valor":"Mexicaltzingo"}
-{"poder":"municipio","ente":"Morelos","codigo":"mun-059","valor":"Morelos"}
-{"poder":"municipio","ente":"Naucalpan","codigo":"mun-060","valor":"Naucalpan"}
-{"poder":"municipio","ente":"Nextlalpan","codigo":"mun-061","valor":"Nextlalpan"}
-{"poder":"municipio","ente":"Nezahualcóyotl","codigo":"mun-062","valor":"Nezahualcóyotl"}
-{"poder":"municipio","ente":"Nicolás Romero","codigo":"mun-063","valor":"Nicolás Romero"}
-{"poder":"municipio","ente":"Nopaltepec","codigo":"mun-064","valor":"Nopaltepec"}
-{"poder":"municipio","ente":"Ocoyoacac","codigo":"mun-065","valor":"Ocoyoacac"}
-{"poder":"municipio","ente":"Ocuilan","codigo":"mun-066","valor":"Ocuilan"}
-{"poder":"municipio","ente":"Otumba","codigo":"mun-067","valor":"Otumba"}
-{"poder":"municipio","ente":"Otzoloapan","codigo":"mun-068","valor":"Otzoloapan"}
-{"poder":"municipio","ente":"Otzolotepec","codigo":"mun-069","valor":"Otzolotepec"}
-{"poder":"municipio","ente":"Ozumba","codigo":"mun-070","valor":"Ozumba"}
-{"poder":"municipio","ente":"Papalotla","codigo":"mun-071","valor":"Papalotla"}
-{"poder":"municipio","ente":"Polotitlán","codigo":"mun-072","valor":"Polotitlán"}
-{"poder":"municipio","ente":"Rayón","codigo":"mun-073","valor":"Rayón"}
-{"poder":"municipio","ente":"San Antonio la Isla","codigo":"mun-074","valor":"San Antonio la Isla"}
-{"poder":"municipio","ente":"San Felipe del Progreso","codigo":"mun-075","valor":"San Felipe del Progreso"}
-{"poder":"municipio","ente":"San José del Rincón","codigo":"mun-076","valor":"San José del Rincón"}
-{"poder":"municipio","ente":"San Martín de las Pirámides","codigo":"mun-077","valor":"San Martín de las Pirámides"}
-{"poder":"municipio","ente":"San Mateo Atenco","codigo":"mun-078","valor":"San Mateo Atenco"}
-{"poder":"municipio","ente":"San Simón de Guerrero","codigo":"mun-079","valor":"San Simón de Guerrero"}
-{"poder":"municipio","ente":"Santo Tomás","codigo":"mun-080","valor":"Santo Tomás"}
-{"poder":"municipio","ente":"Soyaniquilpan de Juárez","codigo":"mun-081","valor":"Soyaniquilpan de Juárez"}
-{"poder":"municipio","ente":"Sultepec","codigo":"mun-082","valor":"Sultepec"}
-{"poder":"municipio","ente":"Tecámac","codigo":"mun-083","valor":"Tecámac"}
-{"poder":"municipio","ente":"Tejupilco","codigo":"mun-084","valor":"Tejupilco"}
-{"poder":"municipio","ente":"Temamatla","codigo":"mun-085","valor":"Temamatla"}
-{"poder":"municipio","ente":"Temascalapa","codigo":"mun-086","valor":"Temascalapa"}
-{"poder":"municipio","ente":"Temascalcingo","codigo":"mun-087","valor":"Temascalcingo"}
-{"poder":"municipio","ente":"Temascaltepec","codigo":"mun-088","valor":"Temascaltepec"}
-{"poder":"municipio","ente":"Temoaya","codigo":"mun-089","valor":"Temoaya"}
-{"poder":"municipio","ente":"Tenancingo","codigo":"mun-090","valor":"Tenancingo"}
-{"poder":"municipio","ente":"Tenango del Aire","codigo":"mun-091","valor":"Tenango del Aire"}
-{"poder":"municipio","ente":"Tenango del Valle","codigo":"mun-092","valor":"Tenango del Valle"}
-{"poder":"municipio","ente":"Teoloyucan","codigo":"mun-093","valor":"Teoloyucan"}
-{"poder":"municipio","ente":"Teotihuacán","codigo":"mun-094","valor":"Teotihuacán"}
-{"poder":"municipio","ente":"Tepetlaoxtoc","codigo":"mun-095","valor":"Tepetlaoxtoc"}
-{"poder":"municipio","ente":"Tepetlixpa","codigo":"mun-096","valor":"Tepetlixpa"}
-{"poder":"municipio","ente":"Tepotzotlán","codigo":"mun-097","valor":"Tepotzotlán"}
-{"poder":"municipio","ente":"Tequixquiac","codigo":"mun-098","valor":"Tequixquiac"}
-{"poder":"municipio","ente":"Texcaltitlán","codigo":"mun-099","valor":"Texcaltitlán"}
-{"poder":"municipio","ente":"Texcalyacac","codigo":"mun-100","valor":"Texcalyacac"}
-{"poder":"municipio","ente":"Texcoco","codigo":"mun-101","valor":"Texcoco"}
-{"poder":"municipio","ente":"Tezoyuca","codigo":"mun-102","valor":"Tezoyuca"}
-{"poder":"municipio","ente":"Tianguistenco","codigo":"mun-103","valor":"Tianguistenco"}
-{"poder":"municipio","ente":"Timilpan","codigo":"mun-104","valor":"Timilpan"}
-{"poder":"municipio","ente":"Tlalmanalco","codigo":"mun-105","valor":"Tlalmanalco"}
-{"poder":"municipio","ente":"Tlalnepantla de Baz","codigo":"mun-106","valor":"Tlalnepantla de Baz"}
-{"poder":"municipio","ente":"Tlatlaya","codigo":"mun-107","valor":"Tlatlaya"}
-{"poder":"municipio","ente":"Toluca","codigo":"mun-108","valor":"Toluca"}
-{"poder":"municipio","ente":"Tonanitla","codigo":"mun-109","valor":"Tonanitla"}
-{"poder":"municipio","ente":"Tonatico","codigo":"mun-110","valor":"Tonatico"}
-{"poder":"municipio","ente":"Tultepec","codigo":"mun-111","valor":"Tultepec"}
-{"poder":"municipio","ente":"Tultitlán","codigo":"mun-112","valor":"Tultitlán"}
-{"poder":"municipio","ente":"Valle de Bravo","codigo":"mun-113","valor":"Valle de Bravo"}
-{"poder":"municipio","ente":"Valle de Chalco Solidaridad","codigo":"mun-114","valor":"Valle de Chalco Solidaridad"}
-{"poder":"municipio","ente":"Villa de Allende","codigo":"mun-115","valor":"Villa de Allende"}
-{"poder":"municipio","ente":"Villa del Carbón","codigo":"mun-116","valor":"Villa del Carbón"}
-{"poder":"municipio","ente":"Villa Guerrero","codigo":"mun-117","valor":"Villa Guerrero"}
-{"poder":"municipio","ente":"Villa Victoria","codigo":"mun-118","valor":"Villa Victoria"}
-{"poder":"municipio","ente":"Xalatlaco","codigo":"mun-119","valor":"Xalatlaco"}
-{"poder":"municipio","ente":"Xonacatlán","codigo":"mun-120","valor":"Xonacatlán"}
-{"poder":"municipio","ente":"Zacazonapan","codigo":"mun-121","valor":"Zacazonapan"}
-{"poder":"municipio","ente":"Zacualpan","codigo":"mun-122","valor":"Zacualpan"}
-{"poder":"municipio","ente":"Zinacantepec","codigo":"mun-123","valor":"Zinacantepec"}
-{"poder":"municipio","ente":"Zumpahuacan","codigo":"mun-124","valor":"Zumpahuacan"}
-{"poder":"municipio","ente":"Zumpango","codigo":"mun-125","valor":"Zumpango"}
-{"poder":"organo autonomo","ente":"Instituto Electoral del Estado de México","codigo":"oau-001","valor":"Instituto Electoral del Estado de México"}
-{"poder":"organo autonomo","ente":"Tribunal Electoral del Estado de México","codigo":"oau-002","valor":"Tribunal Electoral del Estado de México"}
-{"poder":"organo autonomo","ente":"Comisión de Derechos Humanos del Estado de México","codigo":"oau-003","valor":"Comisión de Derechos Humanos del Estado de México"}
-{"poder":"organo autonomo","ente":"Instituto de Transparencia","codigo":"oau-004","valor":" Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios"}
-{"poder":"organo autonomo","ente":"Universidad Autónoma del Estado de México","codigo":"oau-005","valor":"Universidad Autónoma del Estado de México"}
-{"poder":"organo autonomo","ente":"Fiscalía General de Justicia","codigo":"oau-006","valor":"Fiscalía General de Justicia"}
-{"poder":"organo autonomo","ente":"Tribunal de Justicia Administrativa del Estado de México","codigo":"oau-007","valor":"Tribunal de Justicia Administrativa del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-001","siglas":"gubernatura","valor":"Gubernatura"}
+{"poder":"ejecutivo","codigo":"eje-002","siglas":"cgcs","valor":"Coordinación General de Comunicación Social"}
+{"poder":"ejecutivo","codigo":"eje-003","siglas":"tvmex","valor":"Sistema de Radio y Televisión Mexiquense"}
+{"poder":"ejecutivo","codigo":"eje-004","siglas":"difem","valor":"Sistema para el Desarrollo Integral de la Familia del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-005","siglas":"seteg","valor":"Secretaría Técnica del Gabinete"}
+{"poder":"ejecutivo","codigo":"eje-006","siglas":"sgg","valor":"Secretaría General de Gobierno"}
+{"poder":"ejecutivo","codigo":"eje-007","siglas":"cccem","valor":"Centro de Control de Confianza del Estado de México."}
+{"poder":"ejecutivo","codigo":"eje-008","siglas":"imepi","valor":"Instituto Mexiquense de la Pirotecnia"}
+{"poder":"ejecutivo","codigo":"eje-009","siglas":"imsj","valor":"Instituto Mexiquense de Seguridad y Justicia"}
+{"poder":"ejecutivo","codigo":"eje-010","siglas":"procoem","valor":"Procuraduría del Colono del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-011","siglas":"sesesp","valor":"Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública"}
+{"poder":"ejecutivo","codigo":"eje-012","siglas":"ssem","valor":"Secretaría de Seguridad del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-013","siglas":"finanzas","valor":"Secretaría de Finanzas"}
+{"poder":"ejecutivo","codigo":"eje-014","siglas":"copladem","valor":"Comité de Planeación para el Desarrollo del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-015","siglas":"comecyt","valor":"Consejo Mexiquense de Ciencia y Tecnología"}
+{"poder":"ejecutivo","codigo":"eje-016","siglas":"ihaem","valor":"Instituto Hacendario del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-017","siglas":"igecem","valor":"Instituto de Información e Investigación Geografica,  Estadística y Catastral del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-018","siglas":"issemym","valor":"Instituto de Seguridad Social del Estado de México y Municipios"}
+{"poder":"ejecutivo","codigo":"eje-019","siglas":"iapem","valor":"Instituto de Administración Pública del Estado de México A.C."}
+{"poder":"ejecutivo","codigo":"eje-020","siglas":"secomem","valor":"Secretaría de Comunicaciones (apartir de 2017)"}
+{"poder":"ejecutivo","codigo":"eje-021","siglas":"sopem","valor":"Secretaría de Obra Pública"}
+{"poder":"ejecutivo","codigo":"eje-022","siglas":"trabajo","valor":"Secretaría del Trabajo"}
+{"poder":"ejecutivo","codigo":"eje-023","siglas":"icati","valor":"Instituto de Capacitación y Adiestramiento para el Trabajo Industrial"}
+{"poder":"ejecutivo","codigo":"eje-024","siglas":"juntatexcoco","valor":"Junta Local de Conciliación y Arbitraje Valle Cuautitlán-Texcoco"}
+{"poder":"ejecutivo","codigo":"eje-025","siglas":"juntatoluca","valor":"Junta Local de Conciliación y Arbitraje Valle de Toluca"}
+{"poder":"ejecutivo","codigo":"eje-026","siglas":"teca","valor":"Tribunal Estatal de Conciliación y Arbitraje"}
+{"poder":"ejecutivo","codigo":"eje-027","siglas":"educacion","valor":"Secretaría de Educación"}
+{"poder":"ejecutivo","codigo":"eje-028","siglas":"crfdie","valor":"Centro Regional de Formación Docente e Investigación Educativa"}
+{"poder":"ejecutivo","codigo":"eje-029","siglas":"cobaem","valor":"Colegio de Bachilleres del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-030","siglas":"conalep","valor":"Colegio de Educación Profesional Técnica"}
+{"poder":"ejecutivo","codigo":"eje-031","siglas":"cecytem","valor":"Colegio de Estudios Científicos y Tecnológicos del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-032","siglas":"ieeem","valor":"Instituto de Evaluación Educativa del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-033","siglas":"imc","valor":"Instituto Mexiquense de Cultura"}
+{"poder":"ejecutivo","codigo":"eje-034","siglas":"imcufide","valor":"Instituto Mexiquense de Cultura Física y Deporte"}
+{"poder":"ejecutivo","codigo":"eje-035","siglas":"imife","valor":"Instituto Mexiquense de la Infraestructura Física Educativa"}
+{"poder":"ejecutivo","codigo":"eje-036","siglas":"seiem","valor":"Servicios Educativos Integrados al Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-037","siglas":"tescha","valor":"Tecnológico de Estudios Superiores de Chalco"}
+{"poder":"ejecutivo","codigo":"eje-038","siglas":"teschicol","valor":"Tecnológico de Estudios Superiores de Chicoloapan"}
+{"poder":"ejecutivo","codigo":"eje-039","siglas":"teschi","valor":"Tecnológico de Estudios Superiores de Chimalhuacán"}
+{"poder":"ejecutivo","codigo":"eje-040","siglas":"tesco","valor":"Tecnológico de Estudios Superiores de Coacalco"}
+{"poder":"ejecutivo","codigo":"eje-041","siglas":"tesci","valor":"Tecnológico de Estudios Superiores de Cuautitlán Izcalli"}
+{"poder":"ejecutivo","codigo":"eje-042","siglas":"tese","valor":"Tecnológico de Estudios Superiores de Ecatepec"}
+{"poder":"ejecutivo","codigo":"eje-043","siglas":"tesh","valor":"Tecnológico de Estudios Superiores de Huixquilucan"}
+{"poder":"ejecutivo","codigo":"eje-044","siglas":"tesi","valor":"Tecnológico de Estudios Superiores de Ixtapaluca"}
+{"poder":"ejecutivo","codigo":"eje-045","siglas":"tesji","valor":"Tecnológico de Estudios Superiores de Jilotepec"}
+{"poder":"ejecutivo","codigo":"eje-046","siglas":"tesjo","valor":"Tecnológico de Estudios Superiores de Jocotitlán"}
+{"poder":"ejecutivo","codigo":"eje-047","siglas":"tessfp","valor":"Tecnológico de Estudios Superiores de San Felipe del Progreso"}
+{"poder":"ejecutivo","codigo":"eje-048","siglas":"test","valor":"Tecnológico de Estudios Superiores de Tianguistenco"}
+{"poder":"ejecutivo","codigo":"eje-049","siglas":"tesvb","valor":"Tecnológico de Estudios Superiores de Valle de Bravo"}
+{"poder":"ejecutivo","codigo":"eje-050","siglas":"tesvg","valor":"Tecnológico de Estudios Superiores de Villa Guerrero"}
+{"poder":"ejecutivo","codigo":"eje-051","siglas":"tesoem","valor":"Tecnológico de Estudios Superiores del Oriente del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-052","siglas":"udem","valor":"Universidad Digital del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-053","siglas":"uneve","valor":"Universidad Estatal del Valle de Ecatepec"}
+{"poder":"ejecutivo","codigo":"eje-054","siglas":"unevt","valor":"Universidad Estatal del Valle de Toluca"}
+{"poder":"ejecutivo","codigo":"eje-055","siglas":"uiem","valor":"Universidad Intercultural del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-056","siglas":"umb","valor":"Universidad Mexiquense del Bicentenario"}
+{"poder":"ejecutivo","codigo":"eje-057","siglas":"upat","valor":"Universidad Politécnica de Atlacomulco"}
+{"poder":"ejecutivo","codigo":"eje-058","siglas":"upa","valor":"Universidad Politécnica de Atlautla"}
+{"poder":"ejecutivo","codigo":"eje-059","siglas":"upchimal","valor":"Universidad Politécnica de Chimalhuacan"}
+{"poder":"ejecutivo","codigo":"eje-060","siglas":"upci","valor":"Universidad Politécnica de Cuautitlán Izcalli"}
+{"poder":"ejecutivo","codigo":"eje-061","siglas":"upo","valor":"Universidad Politécnica de Otzolotepec"}
+{"poder":"ejecutivo","codigo":"eje-062","siglas":"upt","valor":"Universidad Politécnica de Tecámac"}
+{"poder":"ejecutivo","codigo":"eje-063","siglas":"uptex","valor":"Universidad Politécnica de Texcoco"}
+{"poder":"ejecutivo","codigo":"eje-064","siglas":"upvm","valor":"Universidad Politécnica del Valle de México"}
+{"poder":"ejecutivo","codigo":"eje-065","siglas":"upvt","valor":"Universidad Politécnica del Valle de Toluca"}
+{"poder":"ejecutivo","codigo":"eje-066","siglas":"utn","valor":"Universidad Tecnológica de Nezahualcóyotl"}
+{"poder":"ejecutivo","codigo":"eje-067","siglas":"uttec","valor":"Universidad Tecnológica de Tecámac"}
+{"poder":"ejecutivo","codigo":"eje-068","siglas":"utz","valor":"Universidad Tecnológica de Zinacantepec"}
+{"poder":"ejecutivo","codigo":"eje-069","siglas":"utsem","valor":"Universidad Tecnológica del Sur del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-070","siglas":"utvtol","valor":"Universidad Tecnológica del Valle de Toluca"}
+{"poder":"ejecutivo","codigo":"eje-071","siglas":"utfv","valor":"Universidad Tecnológica Fidel Velázquez"}
+{"poder":"ejecutivo","codigo":"eje-072","siglas":"saop","valor":"Secretaría del Agua y Obra Pública"}
+{"poder":"ejecutivo","codigo":"eje-073","siglas":"sedagro","valor":"Secretaría de Desarrollo Agropecuario"}
+{"poder":"ejecutivo","codigo":"eje-074","siglas":"icamex","valor":"Instituto de Investigación y Capacitación Agropecuaria,  Acuicola y Forestal del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-075","siglas":"sedeco","valor":"Secretaría de Desarrollo Económico"}
+{"poder":"ejecutivo","codigo":"eje-076","siglas":"ifomegem","valor":"Instituto de Fomento Minero y Estudios Geológicos del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-077","siglas":"ime","valor":"Instituto Mexiquense del Emprendedor"}
+{"poder":"ejecutivo","codigo":"eje-078","siglas":"secogem","valor":"Secretaría de la Contraloría"}
+{"poder":"ejecutivo","codigo":"eje-079","siglas":"igispem","valor":"Inspección General de las Instituciones de Seguridad Pública del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-080","siglas":"secom","valor":"Secretaría de Comunicaciones (hasta el 7 de octubre de 2015)"}
+{"poder":"ejecutivo","codigo":"eje-081","siglas":"sma","valor":"Secretaría del Medio Ambiente"}
+{"poder":"ejecutivo","codigo":"eje-082","siglas":"cepanaf","valor":"Comisión Estatal de Parques Naturales y de la Fauna"}
+{"poder":"ejecutivo","codigo":"eje-083","siglas":"ieecc","valor":"Instituto Estatal de Energía y Cambio Climático"}
+{"poder":"ejecutivo","codigo":"eje-084","siglas":"probosque","valor":"Protectora de Bosques del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-085","siglas":"propaem","valor":"Procuraduría de Protección al Ambiente del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-086","siglas":"reciclagua","valor":"Reciclagua Ambiental S.A. de C.V."}
+{"poder":"ejecutivo","codigo":"eje-087","siglas":"sedesem","valor":"Secretaría de Desarrollo Social"}
+{"poder":"ejecutivo","codigo":"eje-088","siglas":"cedipiem","valor":"Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-089","siglas":"cieps","valor":"Consejo de Investigación y Evaluación de la Política Social"}
+{"poder":"ejecutivo","codigo":"eje-090","siglas":"cemybs","valor":"Consejo Estatal de la Mujer y Bienestar Social"}
+{"poder":"ejecutivo","codigo":"eje-091","siglas":"imej","valor":"Instituto Mexiquense de la Juventud"}
+{"poder":"ejecutivo","codigo":"eje-092","siglas":"japem","valor":"Junta de Asistencia Privada del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-093","siglas":"sedeme","valor":"Secretaría de Desarrollo Metropolitano"}
+{"poder":"ejecutivo","codigo":"eje-094","siglas":"salud","valor":"Secretaría de Salud"}
+{"poder":"ejecutivo","codigo":"eje-095","siglas":"btem","valor":"Banco de Tejidos del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-096","siglas":"ccamem","valor":"Comisión de Conciliación y Arbitraje Médico del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-097","siglas":"hrzum","valor":"Hospital Regional de Alta Especialidad de Zumpango"}
+{"poder":"ejecutivo","codigo":"eje-098","siglas":"imiem","valor":"Instituto Materno Infantil del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-099","siglas":"isem","valor":"Instituto de Salud del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-100","siglas":"repss","valor":"Régimen Estatal de Protección Social en Salud"}
+{"poder":"ejecutivo","codigo":"eje-101","siglas":"transporte","valor":"Secretaría de Movilidad"}
+{"poder":"ejecutivo","codigo":"eje-102","siglas":"sedum","valor":"Secretaría de Desarrollo Urbano y Metropolitano"}
+{"poder":"ejecutivo","codigo":"eje-103","siglas":"imevis","valor":"Instituto Mexiquense de la Vivienda Social"}
+{"poder":"ejecutivo","codigo":"eje-104","siglas":"turismo","valor":"Secretaría de Turismo"}
+{"poder":"ejecutivo","codigo":"eje-105","siglas":"covate","valor":"Comisión para el Desarrollo Turístico del Valle de Teotihuacán"}
+{"poder":"ejecutivo","codigo":"eje-106","siglas":"iifaem","valor":"Instituto de Investigación y Fomento de las Artesanías del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-107","siglas":"pgj","valor":"Procuraduría General de Justicia"}
+{"poder":"ejecutivo","codigo":"eje-108","siglas":"cjee","valor":"Consejería Jurídica del Ejecutivo Estatal"}
+{"poder":"ejecutivo","codigo":"eje-109","siglas":"sjdh","valor":"Secretaría de Justicia y Derechos Humanos"}
+{"poder":"ejecutivo","codigo":"eje-110","siglas":"ifrem","valor":"Instituto de la Función Registral del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-111","siglas":"scem","valor":"Secretaría de Cultura"}
+{"poder":"ejecutivo","codigo":"eje-112","siglas":"seinfra","valor":"Secretaría de Infraestructura"}
+{"poder":"ejecutivo","codigo":"eje-113","siglas":"caem","valor":"Comisión del Agua del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-114","siglas":"ctaem","valor":"Comisión Técnica del Agua del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-115","siglas":"jcem","valor":"Junta de Caminos del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-116","siglas":"saascaem","valor":"Sistema de Autopistas,  Aeropuertos,  Servicios Conexos y Auxiliares del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-117","siglas":"stmem","valor":"Sistema de Transporte Masivo y Teleférico del Estado de México"}
+{"poder":"ejecutivo","codigo":"eje-118","siglas":"sesea","valor":"Secretaría Ejecutiva del Sistema Estatal Anticorrupción"}
+{"poder":"legislativo","codigo":"leg-001","siglas":"cddiputados","valor":"Poder Legislativo"}
+{"poder":"judicial","codigo":"jud-001","siglas":"pjedomex","valor":"Poder Judicial"}
+{"poder":"municipio","codigo":"mun-001","siglas":"acambay","valor":"Acambay de Ruíz Castañeda"}
+{"poder":"municipio","codigo":"mun-002","siglas":"acolman","valor":"Acolman"}
+{"poder":"municipio","codigo":"mun-003","siglas":"aculco","valor":"Aculco"}
+{"poder":"municipio","codigo":"mun-004","siglas":"almoloyadealquisiras","valor":"Almoloya de Alquisiras"}
+{"poder":"municipio","codigo":"mun-005","siglas":"almoloyadejuarez","valor":"Almoloya de Juárez"}
+{"poder":"municipio","codigo":"mun-006","siglas":"almoloyadelrio","valor":"Almoloya del Río"}
+{"poder":"municipio","codigo":"mun-007","siglas":"amanalco","valor":"Amanalco"}
+{"poder":"municipio","codigo":"mun-008","siglas":"amatepec","valor":"Amatepec"}
+{"poder":"municipio","codigo":"mun-009","siglas":"amecameca","valor":"Amecameca"}
+{"poder":"municipio","codigo":"mun-010","siglas":"apaxco","valor":"Apaxco"}
+{"poder":"municipio","codigo":"mun-011","siglas":"atenco","valor":"Atenco"}
+{"poder":"municipio","codigo":"mun-012","siglas":"atizapan","valor":"Atizapán"}
+{"poder":"municipio","codigo":"mun-013","siglas":"atizapandezaragoza","valor":"Atizapán de Zaragoza"}
+{"poder":"municipio","codigo":"mun-014","siglas":"atlacomulco","valor":"Atlacomulco"}
+{"poder":"municipio","codigo":"mun-015","siglas":"atlautla","valor":"Atlautla"}
+{"poder":"municipio","codigo":"mun-016","siglas":"axapusco","valor":"Axapusco"}
+{"poder":"municipio","codigo":"mun-017","siglas":"ayapango","valor":"Ayapango"}
+{"poder":"municipio","codigo":"mun-018","siglas":"calimaya","valor":"Calimaya"}
+{"poder":"municipio","codigo":"mun-019","siglas":"capulhuac","valor":"Capulhuac"}
+{"poder":"municipio","codigo":"mun-020","siglas":"chalco","valor":"Chalco"}
+{"poder":"municipio","codigo":"mun-021","siglas":"chapademota","valor":"Chapa de Mota"}
+{"poder":"municipio","codigo":"mun-022","siglas":"chapultepec","valor":"Chapultepec"}
+{"poder":"municipio","codigo":"mun-023","siglas":"chiautla","valor":"Chiautla"}
+{"poder":"municipio","codigo":"mun-024","siglas":"chicoloapan","valor":"Chicoloapan"}
+{"poder":"municipio","codigo":"mun-025","siglas":"chiconcuac","valor":"Chiconcuac"}
+{"poder":"municipio","codigo":"mun-026","siglas":"chimalhuacan","valor":"Chimalhuacán"}
+{"poder":"municipio","codigo":"mun-027","siglas":"coacalco","valor":"Coacalco de Berriozabal"}
+{"poder":"municipio","codigo":"mun-028","siglas":"coatepec","valor":"Coatepec Harinas"}
+{"poder":"municipio","codigo":"mun-029","siglas":"cocotitlan","valor":"Cocotitlán"}
+{"poder":"municipio","codigo":"mun-030","siglas":"coyotepec","valor":"Coyotepec"}
+{"poder":"municipio","codigo":"mun-031","siglas":"cuautitlan","valor":"Cuautitlán"}
+{"poder":"municipio","codigo":"mun-032","siglas":"cuautitlanizcalli","valor":"Cuautitlán Izcalli"}
+{"poder":"municipio","codigo":"mun-033","siglas":"donatoguerra","valor":"Donato Guerra"}
+{"poder":"municipio","codigo":"mun-034","siglas":"ecatepec","valor":"Ecatepec de Morelos"}
+{"poder":"municipio","codigo":"mun-035","siglas":"ecatzingo","valor":"Ecatzingo"}
+{"poder":"municipio","codigo":"mun-036","siglas":"eloro","valor":"El Oro"}
+{"poder":"municipio","codigo":"mun-037","siglas":"huehuetoca","valor":"Huehuetoca"}
+{"poder":"municipio","codigo":"mun-038","siglas":"hueypoxtla","valor":"Hueypoxtla"}
+{"poder":"municipio","codigo":"mun-039","siglas":"huixquilucan","valor":"Huixquilucan"}
+{"poder":"municipio","codigo":"mun-040","siglas":"isidrofabela","valor":"Isidro Fabela"}
+{"poder":"municipio","codigo":"mun-041","siglas":"ixtapaluca","valor":"Ixtapaluca"}
+{"poder":"municipio","codigo":"mun-042","siglas":"ixtapandelasal","valor":"Ixtapan De La Sal"}
+{"poder":"municipio","codigo":"mun-043","siglas":"ixtapandeloro","valor":"Ixtapan Del Oro"}
+{"poder":"municipio","codigo":"mun-044","siglas":"ixtlahuaca","valor":"Ixtlahuaca"}
+{"poder":"municipio","codigo":"mun-045","siglas":"jaltenco","valor":"Jaltenco"}
+{"poder":"municipio","codigo":"mun-046","siglas":"jilotepec","valor":"Jilotepec"}
+{"poder":"municipio","codigo":"mun-047","siglas":"jilotzingo","valor":"Jilotzingo"}
+{"poder":"municipio","codigo":"mun-048","siglas":"jiquipilco","valor":"Jiquipilco"}
+{"poder":"municipio","codigo":"mun-049","siglas":"jocotitlan","valor":"Jocotitlán"}
+{"poder":"municipio","codigo":"mun-050","siglas":"joquicingo","valor":"Joquicingo"}
+{"poder":"municipio","codigo":"mun-051","siglas":"juchitepec","valor":"Juchitepec"}
+{"poder":"municipio","codigo":"mun-052","siglas":"lapaz","valor":"La Paz"}
+{"poder":"municipio","codigo":"mun-053","siglas":"lerma","valor":"Lerma"}
+{"poder":"municipio","codigo":"mun-054","siglas":"luvianos","valor":"Luvianos"}
+{"poder":"municipio","codigo":"mun-055","siglas":"malinalco","valor":"Malinalco"}
+{"poder":"municipio","codigo":"mun-056","siglas":"melchorocampo","valor":"Melchor Ocampo"}
+{"poder":"municipio","codigo":"mun-057","siglas":"metepec","valor":"Metepec"}
+{"poder":"municipio","codigo":"mun-058","siglas":"mexicaltzingo","valor":"Mexicaltzingo"}
+{"poder":"municipio","codigo":"mun-059","siglas":"morelos","valor":"Morelos"}
+{"poder":"municipio","codigo":"mun-060","siglas":"naucalpan","valor":"Naucalpan"}
+{"poder":"municipio","codigo":"mun-061","siglas":"nextlalpan","valor":"Nextlalpan"}
+{"poder":"municipio","codigo":"mun-062","siglas":"nezahualcoyotl","valor":"Nezahualcóyotl"}
+{"poder":"municipio","codigo":"mun-063","siglas":"nicolasromero","valor":"Nicolás Romero"}
+{"poder":"municipio","codigo":"mun-064","siglas":"nopaltepec","valor":"Nopaltepec"}
+{"poder":"municipio","codigo":"mun-065","siglas":"ocoyoac","valor":"Ocoyoacac"}
+{"poder":"municipio","codigo":"mun-066","siglas":"ocuilan","valor":"Ocuilan"}
+{"poder":"municipio","codigo":"mun-067","siglas":"otumba","valor":"Otumba"}
+{"poder":"municipio","codigo":"mun-068","siglas":"otzoloapan","valor":"Otzoloapan"}
+{"poder":"municipio","codigo":"mun-069","siglas":"otzolotepec","valor":"Otzolotepec"}
+{"poder":"municipio","codigo":"mun-070","siglas":"ozumba","valor":"Ozumba"}
+{"poder":"municipio","codigo":"mun-071","siglas":"papalotla","valor":"Papalotla"}
+{"poder":"municipio","codigo":"mun-072","siglas":"polotitlan","valor":"Polotitlán"}
+{"poder":"municipio","codigo":"mun-073","siglas":"rayon","valor":"Rayón"}
+{"poder":"municipio","codigo":"mun-074","siglas":"sanantonio","valor":"San Antonio la Isla"}
+{"poder":"municipio","codigo":"mun-075","siglas":"sanfelipedelprogreso","valor":"San Felipe del Progreso"}
+{"poder":"municipio","codigo":"mun-076","siglas":"sanjosedelrincon","valor":"San José del Rincón"}
+{"poder":"municipio","codigo":"mun-077","siglas":"sanmartindelaspiramides","valor":"San Martín de las Pirámides"}
+{"poder":"municipio","codigo":"mun-078","siglas":"sanmateoatenco","valor":"San Mateo Atenco"}
+{"poder":"municipio","codigo":"mun-079","siglas":"sansimondeguerrero","valor":"San Simón de Guerrero"}
+{"poder":"municipio","codigo":"mun-080","siglas":"santotomas","valor":"Santo Tomás"}
+{"poder":"municipio","codigo":"mun-081","siglas":"soyaniquilpan","valor":"Soyaniquilpan de Juárez"}
+{"poder":"municipio","codigo":"mun-082","siglas":"sultepec","valor":"Sultepec"}
+{"poder":"municipio","codigo":"mun-083","siglas":"tecamac","valor":"Tecámac"}
+{"poder":"municipio","codigo":"mun-084","siglas":"tejupilco","valor":"Tejupilco"}
+{"poder":"municipio","codigo":"mun-085","siglas":"temamatla","valor":"Temamatla"}
+{"poder":"municipio","codigo":"mun-086","siglas":"temascalapa","valor":"Temascalapa"}
+{"poder":"municipio","codigo":"mun-087","siglas":"temascalcingo","valor":"Temascalcingo"}
+{"poder":"municipio","codigo":"mun-088","siglas":"temascaltepec","valor":"Temascaltepec"}
+{"poder":"municipio","codigo":"mun-089","siglas":"temoaya","valor":"Temoaya"}
+{"poder":"municipio","codigo":"mun-090","siglas":"tenancingo","valor":"Tenancingo"}
+{"poder":"municipio","codigo":"mun-091","siglas":"tenangodelaire","valor":"Tenango Del Aire"}
+{"poder":"municipio","codigo":"mun-092","siglas":"tenangodelvalle","valor":"Tenango Del Valle"}
+{"poder":"municipio","codigo":"mun-093","siglas":"teoloyucan","valor":"Teoloyucan"}
+{"poder":"municipio","codigo":"mun-094","siglas":"teotihuacan","valor":"Teotihuacán"}
+{"poder":"municipio","codigo":"mun-095","siglas":"tepetlaoxtoc","valor":"Tepetlaoxtoc"}
+{"poder":"municipio","codigo":"mun-096","siglas":"tepetlixpa","valor":"Tepetlixpa"}
+{"poder":"municipio","codigo":"mun-097","siglas":"tepotzotlan","valor":"Tepotzotlán"}
+{"poder":"municipio","codigo":"mun-098","siglas":"tequixquiac","valor":"Tequixquiac"}
+{"poder":"municipio","codigo":"mun-099","siglas":"texcaltitlan","valor":"Texcaltitlán"}
+{"poder":"municipio","codigo":"mun-100","siglas":"texcalyacac","valor":"Texcalyacac"}
+{"poder":"municipio","codigo":"mun-101","siglas":"texcoco","valor":"Texcoco"}
+{"poder":"municipio","codigo":"mun-102","siglas":"tezoyuca","valor":"Tezoyuca"}
+{"poder":"municipio","codigo":"mun-103","siglas":"tianguistenco","valor":"Tianguistenco"}
+{"poder":"municipio","codigo":"mun-104","siglas":"timilpan","valor":"Timilpan"}
+{"poder":"municipio","codigo":"mun-105","siglas":"tlalmanalco","valor":"Tlalmanalco"}
+{"poder":"municipio","codigo":"mun-106","siglas":"tlalnepantla","valor":"Tlalnepantla de Baz"}
+{"poder":"municipio","codigo":"mun-107","siglas":"tlatlaya","valor":"Tlatlaya"}
+{"poder":"municipio","codigo":"mun-108","siglas":"toluca","valor":"Toluca"}
+{"poder":"municipio","codigo":"mun-109","siglas":"tonanitla","valor":"Tonanitla"}
+{"poder":"municipio","codigo":"mun-110","siglas":"tonatico","valor":"Tonatico"}
+{"poder":"municipio","codigo":"mun-111","siglas":"tultepec","valor":"Tultepec"}
+{"poder":"municipio","codigo":"mun-112","siglas":"tultitlan","valor":"Tultitlán"}
+{"poder":"municipio","codigo":"mun-113","siglas":"valledebravo","valor":"Valle de Bravo"}
+{"poder":"municipio","codigo":"mun-114","siglas":"valledechalco","valor":"Valle de Chalco Solidaridad"}
+{"poder":"municipio","codigo":"mun-115","siglas":"villadeallende","valor":"Villa de Allende"}
+{"poder":"municipio","codigo":"mun-116","siglas":"villadelcarbon","valor":"Villa del Carbón"}
+{"poder":"municipio","codigo":"mun-117","siglas":"villaguerrero","valor":"Villa Guerrero"}
+{"poder":"municipio","codigo":"mun-118","siglas":"villavictoria","valor":"Villa Victoria"}
+{"poder":"municipio","codigo":"mun-119","siglas":"xalatlaco","valor":"Xalatlaco"}
+{"poder":"municipio","codigo":"mun-120","siglas":"xonacatlan","valor":"Xonacatlán"}
+{"poder":"municipio","codigo":"mun-121","siglas":"zacazonapan","valor":"Zacazonapan"}
+{"poder":"municipio","codigo":"mun-122","siglas":"zacualpan","valor":"Zacualpan"}
+{"poder":"municipio","codigo":"mun-123","siglas":"zinacantepec","valor":"Zinacantepec"}
+{"poder":"municipio","codigo":"mun-124","siglas":"zumpahuacan","valor":"Zumpahuacán"}
+{"poder":"municipio","codigo":"mun-125","siglas":"zumpango","valor":"Zumpango"}
+{"poder":"organo autonomo","codigo":"oau-001","siglas":"codhem","valor":"Comisión de Derechos Humanos del Estado de México"}
+{"poder":"organo autonomo","codigo":"oau-002","siglas":"fgjem","valor":"Fiscalía General de Justicia"}
+{"poder":"organo autonomo","codigo":"oau-003","siglas":"infoem","valor":"Instituto de Transparencia,  Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios"}
+{"poder":"organo autonomo","codigo":"oau-004","siglas":"ieem","valor":"Instituto Electoral del Estado de México"}
+{"poder":"organo autonomo","codigo":"oau-005","siglas":"trijaem","valor":"Tribunal de Justicia Administrativa del Estado de México"}
+{"poder":"organo autonomo","codigo":"oau-006","siglas":"teemmx","valor":"Tribunal Electoral del Estado de México"}
+{"poder":"organo autonomo","codigo":"oau-007","siglas":"uaem","valor":"Universidad Autónoma del Estado de México"}
