@@ -249,8 +249,23 @@
 <script src="js/app.js"></script>
 <script src="js/sweetalert.min.js"></script>
 <script>
-swal("¿Está seguro de desactivar el registro?", {
-  buttons: ["Cancelar", "Aceptar"],
+swal({
+  title: "Confirmar",
+  text: "¿Está seguro de desactivar el registro",
+  icon: "warning",
+  buttons: true,
+  dangerMode: true,
+})
+.then((willDelete) => {
+  if (willDelete) {
+    swal("Se ha desactivado correctamente el registro", {
+      icon: "success",
+    });
+  } else {
+    swal("Se ha cancelado la operación", {
+      icon: "error",
+    });
+  }
 });
 </script>
 <!-- Fin script -->
