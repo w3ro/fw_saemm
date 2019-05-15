@@ -262,16 +262,14 @@ swal({
   if (seAcepta) {
     swal("Se ha desactivado correctamente el registro", {
       icon: "success",
-		  dangerMode: true,
-			closeOnClickOutside: false,
-			closeOnEsc: false,
+			buttons: false,
+			timer: 3000,
     });
   } else {
     swal("Se ha cancelado la operación", {
       icon: "error",
-		  dangerMode: true,
-			closeOnClickOutside: false,
-			closeOnEsc: false,
+			buttons: false,
+			timer: 3000,
     });
   }
 });
