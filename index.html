@@ -251,19 +251,27 @@
 <script>
 swal({
   title: "Confirmar",
-  text: "¿Está seguro de desactivar el registro",
+  text: "¿Está seguro de desactivar el registro?",
   icon: "warning",
   buttons: true,
   dangerMode: true,
+	closeOnClickOutside: false,
+	closeOnEsc: false,
 })
-.then((willDelete) => {
-  if (willDelete) {
+.then((seAcepta) => {
+  if (seAcepta) {
     swal("Se ha desactivado correctamente el registro", {
       icon: "success",
+		  dangerMode: true,
+			closeOnClickOutside: false,
+			closeOnEsc: false,
     });
   } else {
     swal("Se ha cancelado la operación", {
       icon: "error",
+		  dangerMode: true,
+			closeOnClickOutside: false,
+			closeOnEsc: false,
     });
   }
 });
