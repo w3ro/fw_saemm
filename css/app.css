@@ -5,7 +5,7 @@ body {
 }
 
 .sup {
-  border-bottom: solid 2px #F06556
+  border-bottom: solid 2px #a5dc86
 }
 
 .top-bar {
@@ -46,7 +46,7 @@ div#submenu ul {
   }
 
   .menuSubnav {
-    background: #F06556;
+    background: #a5dc86;
     color: #fff
   }
 }
@@ -119,7 +119,7 @@ figcaption.orbit-caption a {
 }
 
 .footer {
-  background-color: #F06556;
+  background-color: #a5dc86;
   text-align: center;
   font-size: 1.2rem;
   padding: 2rem 0;
@@ -204,7 +204,7 @@ ul.inline-list.social a img {
 
 .footer ul.menu li a:focus,
 .footer ul.menu li a:hover {
-  color: #C5EDEC
+  color: #ffffffa1
 }
 
 .footer div.row p.about {
@@ -226,7 +226,7 @@ hr.hrheader:before {
   content: " ";
   width: 50px;
   height: 3px;
-  background-color: #F06556;
+  background-color: #a5dc86;
   position: absolute
 }
 
