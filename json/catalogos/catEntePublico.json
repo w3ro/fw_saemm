@@ -250,7 +250,7 @@
 {"poder":"organo autonomo","codigo":"oau-005","siglas":"trijaem","valor":"Tribunal de Justicia Administrativa del Estado de México"}
 {"poder":"organo autonomo","codigo":"oau-006","siglas":"teemmx","valor":"Tribunal Electoral del Estado de México"}
 {"poder":"organo autonomo","codigo":"oau-007","siglas":"uaem","valor":"Universidad Autónoma del Estado de México"}
-{"poder":"municipio","codigo":"dif-001","siglas":"DIFACOLMAN","valor":"Sistema Municipal para el Desarrollo Integral de la Familia de Acolman"}
+{"poder":"municipio","codigo":"dif-001","siglas":"difacolman","valor":"Sistema Municipal para el Desarrollo Integral de la Familia de Acolman"}
 {"poder":"municipio","codigo":"dif-002","siglas":"difalmoloyadejuarez","valor":"Sistema Municipal para el Desarrollo Integral de la Familia de Almoloya de Juárez"}
 {"poder":"municipio","codigo":"dif-003","siglas":"difatizapandezaragoza","valor":"Sistema para el Desarrollo Integral de la Familia del Municipio de Atizapán de Zaragoza"}
 {"poder":"municipio","codigo":"dif-004","siglas":"difatlacomulco","valor":"Sistema Municipal para el Desarrollo Integral de la Familia de Atlacomulco"}
@@ -293,34 +293,34 @@
 {"poder":"municipio","codigo":"dif-041","siglas":"difvillavictoria","valor":"Sistema Municipal para el Desarrollo Integral de la Familia de Villa Victoria"}
 {"poder":"municipio","codigo":"dif-042","siglas":"difzinacantepec","valor":"Sistema Municipal para el Desarrollo Integral de la Familia de Zinacantepec"}
 {"poder":"municipio","codigo":"dif-043","siglas":"difzumpango","valor":"Sistema Municipal para el Desarrollo Integral de la Familia de Zumpango"}
-{"poder":"municipio","codigo":"oas-001","siglas":"OASACOLMAN","valor":"Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Drenaje y Tratamiento de Aguas Residuales del Municipio de Acolman"}
-{"poder":"municipio","codigo":"oas-002","siglas":"OASALMOLOYADEJUAREZ","valor":"Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Drenaje y Tratamiento de Aguas Residuales de Almoloya de Juárez"}
-{"poder":"municipio","codigo":"oas-003","siglas":"OASATIZAPANDEZARAGOZA","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Atizapán de Zaragoza, por sus siglas S.A.P.A.S.A."}
-{"poder":"municipio","codigo":"oas-004","siglas":"OASATLACOMULCO","valor":"Organismo Público Descentralizado de Carácter Municipal para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Atlacomulco "}
-{"poder":"municipio","codigo":"oas-005","siglas":"OASCHALCO","valor":"Organismo Descentralizado de Agua Potable, Alcantarillado y Saneamiento del Municipio de Chalco"}
-{"poder":"municipio","codigo":"oas-006","siglas":"OASCHICOLOAPAN","valor":"Organismo Descentralizado de Agua y Saneamiento de Chicoloapan"}
-{"poder":"municipio","codigo":"oas-007","siglas":"OASCHIMALHUACAN","valor":"Organismo Público Descentralizado de Agua Potable, Alcantarillado y Saneamiento de Chimalhuacán"}
-{"poder":"municipio","codigo":"oas-008","siglas":"OASCOACALCO","valor":"Organismo Público Descentralizado para la Prestación de Servicios de Agua Potable, Alcantarillado y Saneamiento de Coacalco de Berriozábal"}
-{"poder":"municipio","codigo":"oas-009","siglas":"OASCUATLANIZCALLI","valor":"Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Cuautitlán Izcalli denominado OPERAGUA, O.P.D.M."}
-{"poder":"municipio","codigo":"oas-010","siglas":"OASECATEPEC","valor":"Sistema de Agua Potable, Alcantarillado y Saneamiento de Ecatepec de Morelos"}
-{"poder":"municipio","codigo":"oas-011","siglas":"OASHUIXQUILUCAN","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Drenaje y Tratamiento de Aguas Residuales del Municipio de Huixquilucan, México, denominado 'Sistema Aguas de Huixquilucan'"}
-{"poder":"municipio","codigo":"oas-012","siglas":"OASIXTAPALUCA","valor":"El Organismo Descentralizado de Agua Potable, Alcantarillado y Saneamiento del Municipio de Ixtapaluca, denominado por sus siglas, 'O.D.A.P.A.S.'."}
-{"poder":"municipio","codigo":"oas-013","siglas":"OASJILOTEPEC","valor":"Organismo Público Descentralizado para la prestación de los servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Jilotepec"}
-{"poder":"municipio","codigo":"oas-014","siglas":"OASLAPAZ","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de La Paz, México, 'OPDAPAS'"}
-{"poder":"municipio","codigo":"oas-015","siglas":"OASLERMA","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Lerma"}
-{"poder":"municipio","codigo":"oas-016","siglas":"OASMETEPEC","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Metepec"}
-{"poder":"municipio","codigo":"oas-017","siglas":"OASNAUCALPAN","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Naucalpan de Juárez"}
-{"poder":"municipio","codigo":"oas-018","siglas":"OASNEZAHUALCOYOTL","valor":"Organismo Descentralizado de Agua Potable, Alcantarillado y Saneamiento de Nezahualcóyotl. (ODAPAS)"}
-{"poder":"municipio","codigo":"oas-019","siglas":"OASNICOLASROMERO","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Nicolás Romero"}
-{"poder":"municipio","codigo":"oas-020","siglas":"OASSANMATEOAT","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de San Mateo Atenco"}
-{"poder":"municipio","codigo":"oas-021","siglas":"OASTECAMAC","valor":"Organismo Descentralizado para la Prestación de los Servicios del Agua Potable, Alcantarillado y Saneamiento de Tecámac"}
-{"poder":"municipio","codigo":"oas-022","siglas":"OASTENANCINGO","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Tenancingo."}
-{"poder":"municipio","codigo":"oas-023","siglas":"OASTENANGODELVALLE","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Tenango del Valle, Estado de México"}
-{"poder":"municipio","codigo":"oas-024","siglas":"OASTLALNEPANTLA","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Tlalnepantla de Baz"}
-{"poder":"municipio","codigo":"oas-025","siglas":"OASTOL","valor":"Organismo Agua y Saneamiento de Toluca"}
-{"poder":"municipio","codigo":"oas-026","siglas":"OASTULTITLAN","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable , Alcantarillado y Saneamiento del Municipio de Tultitlán"}
-{"poder":"municipio","codigo":"oas-027","siglas":"OASVALLECHALCO","valor":"Organismo Descentralizado de Agua Potable Alcantarillado y Saneamiento de Valle de Chalco Solidaridad "}
-{"poder":"municipio","codigo":"oas-028","siglas":"OASZINACANTEPEC","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Zinacantepec"}
-{"poder":"municipio","codigo":"oas-029","siglas":"OASZUMPANGO","valor":"Organismo Público Descentralizado para la prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Zumpango"}
+{"poder":"municipio","codigo":"oas-001","siglas":"oasacolman","valor":"Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Drenaje y Tratamiento de Aguas Residuales del Municipio de Acolman"}
+{"poder":"municipio","codigo":"oas-002","siglas":"oasalmoloyadejuarez","valor":"Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Drenaje y Tratamiento de Aguas Residuales de Almoloya de Juárez"}
+{"poder":"municipio","codigo":"oas-003","siglas":"oasatizapandezaragoza","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Atizapán de Zaragoza, por sus siglas S.A.P.A.S.A."}
+{"poder":"municipio","codigo":"oas-004","siglas":"oasatlacomulco","valor":"Organismo Público Descentralizado de Carácter Municipal para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Atlacomulco "}
+{"poder":"municipio","codigo":"oas-005","siglas":"oaschalco","valor":"Organismo Descentralizado de Agua Potable, Alcantarillado y Saneamiento del Municipio de Chalco"}
+{"poder":"municipio","codigo":"oas-006","siglas":"oaschicoloapan","valor":"Organismo Descentralizado de Agua y Saneamiento de Chicoloapan"}
+{"poder":"municipio","codigo":"oas-007","siglas":"oaschimalhuacan","valor":"Organismo Público Descentralizado de Agua Potable, Alcantarillado y Saneamiento de Chimalhuacán"}
+{"poder":"municipio","codigo":"oas-008","siglas":"oascoacalco","valor":"Organismo Público Descentralizado para la Prestación de Servicios de Agua Potable, Alcantarillado y Saneamiento de Coacalco de Berriozábal"}
+{"poder":"municipio","codigo":"oas-009","siglas":"oascuatlanizcalli","valor":"Organismo Público Descentralizado Municipal para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Cuautitlán Izcalli denominado OPERAGUA, O.P.D.M."}
+{"poder":"municipio","codigo":"oas-010","siglas":"oasecatepec","valor":"Sistema de Agua Potable, Alcantarillado y Saneamiento de Ecatepec de Morelos"}
+{"poder":"municipio","codigo":"oas-011","siglas":"oashuixquilucan","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Drenaje y Tratamiento de Aguas Residuales del Municipio de Huixquilucan, México, denominado 'Sistema Aguas de Huixquilucan'"}
+{"poder":"municipio","codigo":"oas-012","siglas":"oasixtapaluca","valor":"El Organismo Descentralizado de Agua Potable, Alcantarillado y Saneamiento del Municipio de Ixtapaluca, denominado por sus siglas, 'O.D.A.P.A.S.'."}
+{"poder":"municipio","codigo":"oas-013","siglas":"oasjilotepec","valor":"Organismo Público Descentralizado para la prestación de los servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Jilotepec"}
+{"poder":"municipio","codigo":"oas-014","siglas":"oaslapaz","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de La Paz, México, 'OPDAPAS'"}
+{"poder":"municipio","codigo":"oas-015","siglas":"oaslerma","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Lerma"}
+{"poder":"municipio","codigo":"oas-016","siglas":"oasmetepec","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Metepec"}
+{"poder":"municipio","codigo":"oas-017","siglas":"oasnaucalpan","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Naucalpan de Juárez"}
+{"poder":"municipio","codigo":"oas-018","siglas":"oasnezahualcoyotl","valor":"Organismo Descentralizado de Agua Potable, Alcantarillado y Saneamiento de Nezahualcóyotl. (ODAPAS)"}
+{"poder":"municipio","codigo":"oas-019","siglas":"oasnicolasromero","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Nicolás Romero"}
+{"poder":"municipio","codigo":"oas-020","siglas":"oassanmateoat","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de San Mateo Atenco"}
+{"poder":"municipio","codigo":"oas-021","siglas":"oastecamac","valor":"Organismo Descentralizado para la Prestación de los Servicios del Agua Potable, Alcantarillado y Saneamiento de Tecámac"}
+{"poder":"municipio","codigo":"oas-022","siglas":"oastenancingo","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Tenancingo."}
+{"poder":"municipio","codigo":"oas-023","siglas":"oastenangodelvalle","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Tenango del Valle, Estado de México"}
+{"poder":"municipio","codigo":"oas-024","siglas":"oastlalnepantla","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Tlalnepantla de Baz"}
+{"poder":"municipio","codigo":"oas-025","siglas":"oastol","valor":"Organismo Agua y Saneamiento de Toluca"}
+{"poder":"municipio","codigo":"oas-026","siglas":"oastultitlan","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable , Alcantarillado y Saneamiento del Municipio de Tultitlán"}
+{"poder":"municipio","codigo":"oas-027","siglas":"oasvallechalco","valor":"Organismo Descentralizado de Agua Potable Alcantarillado y Saneamiento de Valle de Chalco Solidaridad "}
+{"poder":"municipio","codigo":"oas-028","siglas":"oaszinacantepec","valor":"Organismo Público Descentralizado para la Prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento de Zinacantepec"}
+{"poder":"municipio","codigo":"oas-029","siglas":"oaszumpango","valor":"Organismo Público Descentralizado para la prestación de los Servicios de Agua Potable, Alcantarillado y Saneamiento del Municipio de Zumpango"}
 {"poder":"ejecutivo","codigo":"fid-001","siglas":"fidepar","valor":"Fideicomiso para el Desarrollo de Parques Industriales del Estado de México"}
 {"poder":"ejecutivo","codigo":"fid-002","siglas":"fc3","valor":"Fideicomiso Público Irrevocable de Administración, Financiamiento, Inversión y Pago para la Construcción de Centros Preventivos y de Readaptación Social en el Estado de México"}
