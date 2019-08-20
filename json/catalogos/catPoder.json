@@ -1,5 +1,6 @@
-{"codigo":"JUD","valor":"Judicial"}
-{"codigo":"OCA","valor":"Órgano Constitucional Autónomo"}
-{"codigo":"OTRO","valor":"Otro (especifique)"}
-{"codigo":"LEG","valor":"Legislativo"}
-{"codigo":"EJE","valor":"Ejecutivo"}
+{"poder":"ejecutivo","codigo":"eje","valor":"Ejecutivo"}
+{"poder":"legislativo","codigo":"leg","valor":"Legislativo"}
+{"poder":"judicial","codigo":"jud","valor":"Judicial"}
+{"poder":"organo autonomo","codigo":"oau","valor":"Órgano Autónomo"}
+{"poder":"municipio","codigo":"mun","valor":"Municipio"}
+{"poder":"otro","codigo":"otr","valor":"Otro (especifique)"}
