@@ -1,0 +1,9 @@
+{"codigo":"eje","valor":"Ejecutivo"}
+{"codigo":"leg","valor":"Legislativo"}
+{"codigo":"jud","valor":"Judicial"}
+{"codigo":"mun","valor":"Municipio"}
+{"codigo":"oau","valor":"Órgano Autónomo"}
+{"codigo":"pap","valor":"Partido Político"}
+{"codigo":"sin","valor":"Sindicato"}
+{"codigo":"fid","valor":"Fideicomiso"}
+{"codigo":"otr","valor":"Otro (especifique)"}
