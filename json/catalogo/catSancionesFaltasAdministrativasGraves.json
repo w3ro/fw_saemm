@@ -1,0 +1,14 @@
+{"sanTipoId":"1","sanTipoServidorPublico":"1","sanTipoDescripcion":"Suspensión del empleo, cargo o comisión"}
+{"sanTipoId":"2","sanTipoServidorPublico":"1","sanTipoDescripcion":"Destitución del empleo, cargo o comisión"}
+{"sanTipoId":"3","sanTipoServidorPublico":"1","sanTipoDescripcion":"Sanción económica"}
+{"sanTipoId":"4","sanTipoServidorPublico":"1","sanTipoDescripcion":"Inhabilitación temporal para desempeñar empleos, cargos o comisiones  "}
+{"sanTipoId":"5","sanTipoServidorPublico":"1","sanTipoDescripcion":"Indemnización"}
+{"sanTipoId":"6","sanTipoServidorPublico":"1","sanTipoDescripcion":"Sin sanción"}
+{"sanTipoId":"7","sanTipoServidorPublico":"1","sanTipoDescripcion":"Otro"}
+{"sanTipoId":"8","sanTipoServidorPublico":"0","sanTipoDescripcion":"Sanción económica"}
+{"sanTipoId":"9","sanTipoServidorPublico":"0","sanTipoDescripcion":"Inhabilitación temporal "}
+{"sanTipoId":"10","sanTipoServidorPublico":"0","sanTipoDescripcion":"Suspensión de actividades"}
+{"sanTipoId":"11","sanTipoServidorPublico":"0","sanTipoDescripcion":"Disolución de la sociedad respectiva"}
+{"sanTipoId":"12","sanTipoServidorPublico":"0","sanTipoDescripcion":"Indemnización resarcitoria "}
+{"sanTipoId":"13","sanTipoServidorPublico":"0","sanTipoDescripcion":"Sin sanción"}
+{"sanTipoId":"14","sanTipoServidorPublico":"0","sanTipoDescripcion":"Otro"}
