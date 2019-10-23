@@ -1,0 +1,1166 @@
+{
+  "coleccion": "declaraciones_inicial",
+  "id": "1",
+  "metadata": {
+    "actualizacion": "1",
+    "institucion": "1",
+    "contacto": "1",
+    "personaContacto": "1",
+    "tipo": "1"
+  },
+  "declaracion": {
+    "situacionPatrimonial": {
+      "datosGenerales": {
+        "nombre": "1",
+        "primerApellido": "1",
+        "segundoApellido": "1",
+        "curp": "0",
+        "rfc": {
+          "rfc": "0",
+          "homoClave": "0"
+        },
+        "correoElectronico": {
+          "institucional": "1",
+          "personal": "0"
+        },
+        "telefono": {
+          "casa": "0",
+          "celularPersonal": "0"
+        },
+        "situacionPersonalEstadoCivil": {
+          "clave": "0",
+          "valor": "0"
+        },
+        "regimenMatrimonial": {
+          "clave": "0",
+          "valor": "0"
+        },
+        "paisNacimiento": {
+          "clave": "0",
+          "valor": "0"
+        },
+        "nacionalidad": {
+          "clave": "0",
+          "valor": "0"
+        },
+        "aclaracionesObservaciones": "0"
+      },
+      "domicilioDeclarante": {
+        "domicilioMexico": {
+          "calle": "0",
+          "numeroExterior": "0",
+          "numeroInterior": "0",
+          "coloniaLocalidad": "0",
+          "municipioAlcaldia": {
+            "clave": "0",
+            "valor": "0"
+          },
+          "entidadFederativa": {
+            "clave": "0",
+            "valor": "0"
+          },
+          "codigoPostal": "0"
+        },
+        "domicilioExtranjero": {
+          "calle": "0",
+          "numeroExterior": "0",
+          "numeroInterior": "0",
+          "ciudadLocalidad": "0",
+          "estadoProvincia": "0",
+          "pais": {
+            "clave": "0",
+            "valor": "0"
+          },
+          "codigoPostal": "0"
+        },
+        "aclaracionesObservaciones": "0"
+      },
+      "datosCurricularesDeclarante": {
+        "escolaridad": [
+          {
+            "tipoOperacion": "1",
+            "nivel": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "institucionEducativa": {
+              "nombre": "1",
+              "ubicacion": "1"
+            },
+            "carreraAreaConocimiento": "1",
+            "estatus": "1",
+            "documentoObtenido": "1",
+            "fechaObtencion": "1"
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "datosEmpleoCargoComision": {
+        "tipoOperacion": "1",
+        "nivelOrdenGobierno": "1",
+        "ambitoPublico": "1",
+        "nombreEntePublico": "1",
+        "areaAdscripcion": "1",
+        "empleoCargoComision": "1",
+        "contratadoPorHonorarios": "1",
+        "nivelEmpleoCargoComision": "1",
+        "funcionPrincipal": "1",
+        "fechaTomaPosesion": "1",
+        "telefonoOficina": {
+          "telefono": "1",
+          "extension": "1"
+        },
+        "domicilioMexico": {
+          "calle": "1",
+          "numeroExterior": "1",
+          "numeroInterior": "1",
+          "coloniaLocalidad": "1",
+          "municipioAlcaldia": {
+            "clave": "1",
+            "valor": "1"
+          },
+          "entidadFederativa": {
+            "clave": "1",
+            "valor": "1"
+          },
+          "codigoPostal": "1"
+        },
+        "domicilioExtranjero": {
+          "calle": "1",
+          "numeroExterior": "1",
+          "numeroInterior": "1",
+          "ciudadLocalidad": "1",
+          "estadoProvincia": "1",
+          "pais": {
+            "clave": "1",
+            "valor": "1"
+          },
+          "codigoPostal": "1"
+        },
+        "aclaracionesObservaciones": "0"
+      },
+      "experienciaLaboral": {
+        "ninguno": "1",
+        "experiencia": [
+          {
+            "tipoOperacion": "1",
+            "ambitoSector": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "nivelOrdenGobierno": "1",
+            "ambitoPublico": "1",
+            "nombreEntePublico": "1",
+            "areaAdscripcion": "1",
+            "empleoCargoComision": "1",
+            "funcionPrincipal": "1",
+            "fechaIngreso": "1",
+            "fechaEgreso": "1",
+            "ubicacion": "1"
+          },
+          {
+            "tipoOperacion": "1",
+            "ambitoSector": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "nombreEmpresaSociedadAsociacion": "1",
+            "rfc": "1",
+            "area": "1",
+            "puesto": "1",
+            "sector": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "fechaIngreso": "1",
+            "fechaEgreso": "1",
+            "ubicacion": "1"
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "datosPareja": {
+        "ninguno": "1",
+        "tipoOperacion": "1",
+        "nombre": "0",
+        "primerApellido": "0",
+        "segundoApellido": "0",
+        "fechaNacimiento": "0",
+        "rfc": "0",
+        "relacionConDeclarante": "0",
+        "ciudadanoExtranjero": "0",
+        "curp": "0",
+        "esDependienteEconomico": "0",
+        "habitaDomicilioDeclarante": "0",
+        "lugarDondeReside": "0",
+        "domicilioMexico": {
+          "calle": "0",
+          "numeroExterior": "0",
+          "numeroInterior": "0",
+          "coloniaLocalidad": "0",
+          "municipioAlcaldia": {
+            "clave": "0",
+            "valor": "0"
+          },
+          "entidadFederativa": {
+            "clave": "0",
+            "valor": "0"
+          },
+          "codigoPostal": "0"
+        },
+        "domicilioExtranjero": {
+          "calle": "0",
+          "numeroExterior": "0",
+          "numeroInterior": "0",
+          "ciudadLocalidad": "0",
+          "estadoProvincia": "0",
+          "pais": {
+            "clave": "0",
+            "valor": "0"
+          },
+          "codigoPostal": "0"
+        },
+        "actividadLaboral": {
+          "clave": "0",
+          "valor": "0"
+        },
+        "actividadLaboralSectorPublico": {
+          "nivelOrdenGobierno": "0",
+          "ambitoPublico": "0",
+          "nombreEntePublico": "0",
+          "areaAdscripcion": "0",
+          "empleoCargoComision": "0",
+          "funcionPrincipal": "0",
+          "salarioMensualNeto": {
+            "valor": "0",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "fechaIngreso": "0"
+        },
+        "actividadLaboralSectorPrivadoOtro": {
+          "nombreEmpresaSociedadAsociacion": "0",
+          "empleoCargoComision": "0",
+          "rfc": "0",
+          "fechaIngreso": "0",
+          "sector": {
+            "clave": "0",
+            "valor": "0"
+          },
+          "salarioMensualNeto": {
+            "valor": "0",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "proveedorContratistaGobierto": "0"
+        },
+        "aclaracionesObservaciones": "0"
+      },
+      "datosDependienteEconomico": {
+        "ninguno": "1",
+        "dependienteEconomico": [
+          {
+            "tipoOperacion": "1",
+            "nombre": "0",
+            "primerApellido": "0",
+            "segundoApellido": "0",
+            "fechaNacimiento": "0",
+            "rfc": "0",
+            "parentescoRelacion": {
+              "clave": "0",
+              "valor": "0"
+            },
+            "extranjero": "0",
+            "curp": "0",
+            "habitaDomicilioDeclarante": "0",
+            "lugarDondeReside": "0",
+            "domicilioMexico": {
+              "calle": "0",
+              "numeroExterior": "0",
+              "numeroInterior": "0",
+              "coloniaLocalidad": "0",
+              "municipioAlcaldia": {
+                "clave": "0",
+                "valor": "0"
+              },
+              "entidadFederativa": {
+                "clave": "0",
+                "valor": "0"
+              },
+              "codigoPostal": "0"
+            },
+            "domicilioExtranjero": {
+              "calle": "0",
+              "numeroExterior": "0",
+              "numeroInterior": "0",
+              "ciudadLocalidad": "0",
+              "estadoProvincia": "0",
+              "pais": {
+                "clave": "0",
+                "valor": "0"
+              },
+              "codigoPostal": "0"
+            },
+            "actividadLaboral": {
+              "clave": "0",
+              "valor": "0"
+            },
+            "actividadLaboralSectorPublico": {
+              "nivelOrdenGobierno": "0",
+              "ambitoPublico": "0",
+              "nombreEntePublico": "0",
+              "areaAdscripcion": "0",
+              "empleoCargoComision": "0",
+              "funcionPrincipal": "0",
+              "salarioMensualNeto": {
+                "valor": "0",
+                "moneda": {
+                  "clave": "1",
+                  "valor": "1"
+                }
+              },
+              "fechaIngresoEmpleo": "0"
+            },
+            "actividadLaboralSectorPrivadoOtro": {
+              "nombreEmpresaSociedadAsociacion": "0",
+              "rfc": "0",
+              "empleoCargo": "0",
+              "fechaIngresoEmpleo": "0",
+              "salarioMensualNeto": {
+                "valor": "0",
+                "moneda": {
+                  "clave": "1",
+                  "valor": "1"
+                }
+              }
+            },
+            "proveedorContratistaGobierno": "0",
+            "sector": {
+              "clave": "0",
+              "valor": "0"
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "ingresos": {
+        "remuneracionMensualCargoPublico": {
+          "valor": "1",
+          "moneda": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "otrosIngresosMensualesTotal": {
+          "valor": "1",
+          "moneda": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "actividadIndustialComercialEmpresarial": {
+          "remuneracion": {
+            "valor": "1",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "nombreRazonSocial": "1",
+          "tipoNegocio": "1"
+        },
+        "actividadFinanciera": {
+          "remuneracion": {
+            "valor": "1",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "tipoInstrumento": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "serviciosProfesionales": {
+          "remuneracion": {
+            "valor": "1",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "tipoServicio": "1"
+        },
+        "otrosIngresos": {
+          "remuneracion": {
+            "valor": "1",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "tipoIngreso": "1"
+        },
+        "ingresoMensualNetoDeclarante": {
+          "valor": "1",
+          "moneda": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "ingresoMensualNetoParejaDependiente": {
+          "valor": "0",
+          "moneda": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "totalIngresosMensualesNetos": {
+          "valor": "1",
+          "moneda": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "aclaracionesObservaciones": "0"
+      },
+      "actividadAnualAnterior": {
+        "servidorPublicoAnioAnterior": "1",
+        "fechaIngreso": "1",
+        "fechaConclusion": "1",
+        "remuneracionNetaCargoPublico": {
+          "valor": "1",
+          "moneda": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "otrosIngresosTotal": {
+          "valor": "1",
+          "moneda": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "actividadIndustialComercialEmpresarial": {
+          "remuneracion": {
+            "valor": "1",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "nombreRazonSocial": "1",
+          "tipoNegocio": "1"
+        },
+        "actividadFinanciera": {
+          "remuneracion": {
+            "valor": "1",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "tipoInstrumento": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "serviciosProfesionales": {
+          "remuneracion": {
+            "valor": "1",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "tipoServicio": "1"
+        },
+        "enajenacionBienes": {
+          "remuneracion": {
+            "valor": "1",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "tipoBien": "1"
+        },
+        "otrosIngresos": {
+          "remuneracion": {
+            "valor": "1",
+            "moneda": {
+              "clave": "1",
+              "valor": "1"
+            }
+          },
+          "tipoIngreso": "1"
+        },
+        "ingresoNetoAnualDeclarante": {
+          "valor": "1",
+          "moneda": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "ingresoNetoAnualParejaDependiente": {
+          "valor": "0",
+          "moneda": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "totalIngresosNetosAnuales": {
+          "valor": "1",
+          "moneda": {
+            "clave": "1",
+            "valor": "1"
+          }
+        },
+        "aclaracionesObservaciones": "0"
+      },
+      "bienesInmuebles": {
+        "ninguno": "1",
+        "bienInmueble": [
+          {
+            "tipoOperacion": "1",
+            "tipoInmueble": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "titular": [
+              {
+                "clave": "2",
+                "valor": "2"
+              }
+            ],
+            "porcentajePropiedad": "1",
+            "superficieTerreno": {
+              "valor": "1",
+              "unidad": "1"
+            },
+            "superficieConstruccion": {
+              "valor": "1",
+              "unidad": "1"
+            },
+            "tercero": [
+              {
+                "tipoPersona": "1",
+                "nombreRazonSocial": "2",
+                "rfc": "2"
+              }
+            ],
+            "transmisor": [
+              {
+                "tipoPersona": "1",
+                "nombreRazonSocial": "2",
+                "rfc": "2",
+                "relacion": {
+                  "clave": "2",
+                  "valor": "2"
+                }
+              }
+            ],
+            "formaAdquisicion": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "formaPago": "1",
+            "valorAdquisicion": {
+              "valor": "1",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "fechaAdquiscion": "1",
+            "datoIdentificacion": "0",
+            "valorConformeA": "1",
+            "domicilioMexico": {
+              "calle": "0",
+              "numeroExterior": "0",
+              "numeroInterior": "0",
+              "coloniaLocalidad": "0",
+              "municipioAlcaldia": {
+                "clave": "0",
+                "valor": "0"
+              },
+              "entidadFederativa": {
+                "clave": "0",
+                "valor": "0"
+              },
+              "codigoPostal": "0"
+            },
+            "domicilioExtranjero": {
+              "calle": "0",
+              "numeroExterior": "0",
+              "numeroInterior": "0",
+              "ciudadLocalidad": "0",
+              "estadoProvincia": "0",
+              "pais": {
+                "clave": "0",
+                "valor": "0"
+              },
+              "codigoPostal": "0"
+            },
+            "motivoBaja": {
+              "clave": "1",
+              "valor": "1"
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "vehiculos": {
+        "ninguno": "1",
+        "vehiculo": [
+          {
+            "tipoOperacion": "1",
+            "tipoVehiculo": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "titular": [
+              {
+                "clave": "2",
+                "valor": "2"
+              }
+            ],
+            "transmisor": [
+              {
+                "tipoPersona": "1",
+                "nombreRazonSocial": "2",
+                "rfc": "2",
+                "relacion": {
+                  "clave": "2",
+                  "valor": "2"
+                }
+              }
+            ],
+            "marca": "1",
+            "modelo": "1",
+            "anio": "1",
+            "numeroSerieRegistro": "0",
+            "tercero": [
+              {
+                "tipoPersona": "1",
+                "nombreRazonSocial": "2",
+                "rfc": "2"
+              }
+            ],
+            "lugarRegistro": {
+              "pais": {
+                "clave": "0",
+                "valor": "0"
+              },
+              "entidadFederativa": {
+                "clave": "0",
+                "valor": "0"
+              }
+            },
+            "formaAdquisicion": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "formaPago": "1",
+            "valorAdquisicion": {
+              "valor": "1",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "fechaAdquisicion": "1",
+            "motivoBaja": {
+              "clave": "1",
+              "valor": "1"
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "bienesMuebles": {
+        "ninguno": "1",
+        "bienMueble": [
+          {
+            "tipoOperacion": "1",
+            "titular": [
+              {
+                "clave": "2",
+                "valor": "2"
+              }
+            ],
+            "tipoBien": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "transmisor": [
+              {
+                "tipoPersona": "1",
+                "nombreRazonSocial": "2",
+                "rfc": "2",
+                "relacion": {
+                  "clave": "2",
+                  "valor": "2"
+                }
+              }
+            ],
+            "tercero": [
+              {
+                "tipoPersona": "1",
+                "nombreRazonSocial": "2",
+                "rfc": "2"
+              }
+            ],
+            "descripcionGeneralBien": "1",
+            "formaAdquisicion": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "formaPago": "1",
+            "valorAdquisicion": {
+              "valor": "1",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "fechaAdquisicion": "1",
+            "motivoBaja": {
+              "clave": "1",
+              "valor": "1"
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "inversiones": {
+        "ninguno": "1",
+        "inversion": [
+          {
+            "tipoOperacion": "1",
+            "tipoInversion": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "subTipoInversion": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "titular": [
+              {
+                "clave": "2",
+                "valor": "2"
+              }
+            ],
+            "tercero": [
+              {
+                "tipoPersona": "1",
+                "nombreRazonSocial": "2",
+                "rfc": "2"
+              }
+            ],
+            "numeroCuentaContrato": "0",
+            "localizacionInversion": {
+              "pais": {
+                "clave": "1",
+                "valor": "1"
+              },
+              "institucionRazonSocial": "1",
+              "rfc": "1"
+            },
+            "saldoSituacionActual": {
+              "valor": "0",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "adeudos": {
+        "ninguno": "1",
+        "adeudo": [
+          {
+            "tipoOperacion": "1",
+            "titular": [
+              {
+                "clave": "2",
+                "valor": "2"
+              }
+            ],
+            "tipoAdeudo": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "numeroCuentaContrato": "0",
+            "fechaAdquision": "1",
+            "montoOriginal": {
+              "valor": "1",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "saldoInsolutoSituacionActual": {
+              "valor": "0",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "tercero": [
+              {
+                "tipoPersona": "1",
+                "nombreRazonSocial": "2",
+                "rfc": "2"
+              }
+            ],
+            "otorganteCredito": {
+              "tipoPersona": "1",
+              "nombreInstitucion": "2",
+              "rfc": "2"
+            },
+            "localizacionAdeudo": {
+              "pais": {
+                "clave": "1",
+                "valor": "1"
+              }
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "prestamoOComodato": {
+        "ninguno": "1",
+        "prestamo": [
+          {
+            "tipoOperacion": "1",
+            "tipoBien": {
+              "inmueble": {
+                "tipoInmueble": {
+                  "clave": "1",
+                  "valor": "1"
+                },
+                "domicilioMexico": {
+                  "calle": "0",
+                  "numeroExterior": "0",
+                  "numeroInterior": "0",
+                  "coloniaLocalidad": "0",
+                  "municipioAlcaldia": {
+                    "clave": "0",
+                    "valor": "0"
+                  },
+                  "entidadFederativa": {
+                    "clave": "0",
+                    "valor": "0"
+                  },
+                  "codigoPostal": "0"
+                },
+                "domicilioExtranjero": {
+                  "calle": "0",
+                  "numeroExterior": "0",
+                  "numeroInterior": "0",
+                  "ciudadLocalidad": "0",
+                  "estadoProvincia": "0",
+                  "pais": {
+                    "clave": "0",
+                    "valor": "0"
+                  },
+                  "codigoPostal": "0"
+                }
+              },
+              "vehiculo": {
+                "tipo": {
+                  "clave": "1",
+                  "valor": "1"
+                },
+                "marca": "1",
+                "modelo": "1",
+                "anio": "1",
+                "numeroSerieRegistro": "0",
+                "lugarRegistro": {
+                  "pais": {
+                    "clave": "0",
+                    "valor": "0"
+                  },
+                  "entidadFederativa": {
+                    "clave": "0",
+                    "valor": "0"
+                  }
+                }
+              }
+            },
+            "duenoTitular": {
+              "tipoDuenoTitular": "1",
+              "nombreTitular": "2",
+              "rfc": "2",
+              "relacionConTitular": "2"
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      }
+    },
+    "interes": {
+      "participacion": {
+        "ninguno": "1",
+        "participacion": [
+          {
+            "tipoOperacion": "1",
+            "tipoRelacion": "1",
+            "nombreEmpresaSociedadAsociacion": "1",
+            "rfc": "1",
+            "porcentajeParticipacion": "1",
+            "tipoParticipacion": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "recibeRemuneracion": "1",
+            "montoMensual": {
+              "valor": "1",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "ubicacion": {
+              "pais": {
+                "clave": "1",
+                "valor": "1"
+              },
+              "entidadFederativa": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "sector": {
+              "clave": "1",
+              "valor": "1"
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "participacionTomaDecisiones": {
+        "ninguno": "1",
+        "participacion": [
+          {
+            "tipoOperacion": "1",
+            "tipoRelacion": "1",
+            "tipoInstitucion": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "nombreInstitucion": "2",
+            "rfc": "2",
+            "puestoRol": "1",
+            "fechaInicioParticipacion": "1",
+            "recibeRemuneracion": "1",
+            "montoMensual": {
+              "valor": "1",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "ubicacion": {
+              "pais": {
+                "clave": "1",
+                "valor": "1"
+              },
+              "entidadFederativa": {
+                "clave": "1",
+                "valor": "1"
+              }
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "apoyos": {
+        "ninguno": "1",
+        "apoyo": [
+          {
+            "tipoOperacion": "1",
+            "beneficiarioPrograma": {
+              "clave": "2",
+              "valor": "2"
+            },
+            "nombrePrograma": "1",
+            "institucionOtorgante": "1",
+            "nivelOrdenGobierno": "1",
+            "tipoApoyo": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "formaRecepcion": "1",
+            "montoApoyoMensual": {
+              "valor": "1",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "especifiqueApoyo": "1"
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "representacion": {
+        "ninguno": "1",
+        "representacion": [
+          {
+            "tipoOperacion": "1",
+            "tipoRelacion": "1",
+            "tipoRepresentacion": "1",
+            "fechaInicioRepresentacion": "1",
+            "tipoPersona": "1",
+            "nombreRazonSocial": "2",
+            "rfc": "2",
+            "recibeRemuneracion": "1",
+            "montoMensual": {
+              "valor": "1",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "ubicacion": {
+              "pais": {
+                "clave": "1",
+                "valor": "1"
+              },
+              "entidadFederativa": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "sector": {
+              "clave": "1",
+              "valor": "1"
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "clientesPrincipales": {
+        "ninguno": "1",
+        "cliente": [
+          {
+            "tipoOperacion": "1",
+            "realizaActividadLucrativa": "1",
+            "tipoRelacion": "1",
+            "empresa": {
+              "nombreEmpresaServicio": "1",
+              "rfc": "1"
+            },
+            "clientePrincipal": {
+              "tipoPersona": "1",
+              "nombreRazonSocial": "2",
+              "rfc": "2"
+            },
+            "sector": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "montoAproximadoGanancia": {
+              "valor": "1",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "ubicacion": {
+              "pais": {
+                "clave": "1",
+                "valor": "1"
+              },
+              "entidadFederativa": {
+                "clave": "1",
+                "valor": "1"
+              }
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "beneficiosPrivados": {
+        "ninguno": "1",
+        "beneficio": [
+          {
+            "tipoOperacion": "1",
+            "tipoBeneficio": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "beneficiario": [
+              {
+                "clave": "2",
+                "valor": "2"
+              }
+            ],
+            "otorgante": {
+              "tipoPersona": "1",
+              "nombreRazonSocial": "2",
+              "rfc": "2"
+            },
+            "formaRecepcion": "1",
+            "especifiqueBeneficio": "1",
+            "montoMensualAproximado": {
+              "valor": "1",
+              "moneda": {
+                "clave": "1",
+                "valor": "1"
+              }
+            },
+            "sector": {
+              "clave": "1",
+              "valor": "1"
+            }
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      },
+      "fideicomisos": {
+        "ninguno": "1",
+        "fideicomiso": [
+          {
+            "tipoOperacion": "1",
+            "tipoRelacion": "1",
+            "tipoFideicomiso": "1",
+            "tipoParticipacion": "1",
+            "rfcFideicomiso": "1",
+            "fideicomitente": {
+              "tipoPersona": "1",
+              "nombreRazonSocial": "2",
+              "rfc": "2"
+            },
+            "fiduciario": {
+              "nombreRazonSocial": "1",
+              "rfc": "1"
+            },
+            "fideicomisario": {
+              "tipoPersona": "1",
+              "nombreRazonSocial": "2",
+              "rfc": "2"
+            },
+            "sector": {
+              "clave": "1",
+              "valor": "1"
+            },
+            "extanjero": "1"
+          }
+        ],
+        "aclaracionesObservaciones": "0"
+      }
+    }
+  }
+}

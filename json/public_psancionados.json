@@ -1,1 +1,110 @@
-{"id":1,"fecha_captura":1,"expediente":1,"institucion_dependencia":{"nombre":1,"siglas":1,"clave":1},"sistema_origen":1,"particular_sancionado":{"nombre_razon_social":1,"objeto_social":1,"rfc":1,"telefono":1,"domicilio":{"pais":{"valor":1,"codigo":1},"entidad_federativa":{"nom_ent":1,"cve_ent":1},"municipio":{"nom_mun":1,"cve_mun":1},"cp":1,"localidad":{"nom_loc":1,"cve_loc":1},"vialidad":{"tipo_vial":1,"nom_vial":1},"numExt":1,"numInt":1},"director_general":{"nombres":1,"primer_apellido":1,"segundo_apellido":1,"curp":0},"apoderado_legal":{"nombres":1,"primer_apellido":1,"segundo_apellido":1,"curp":0}},"objeto_contrato":1,"autoridad_sancionadora":1,"tipo_falta":1,"tipo_sancion":[1],"causa_motivo_hechos":1,"acto":1,"responsable_sancion":{"nombres":1,"primer_apellido":1,"segundo_apellido":1},"resolucion":{"sentido":1,"url":1,"fecha_notificacion":1},"multa":{"monto":1,"moneda":1},"inhabilitacion":{"plazo":1,"fecha_inicial":1,"fecha_final":1},"observaciones":1,"documentos":[{"id":1,"tipo":1,"titulo":1,"descripcion":1,"url":1,"fecha":1}]}
+{
+  "coleccion": "psancionados",
+  "id": "1",
+  "fechaCaptura": "1",
+  "expediente": "1",
+  "institucionDependencia": {
+    "nombre": "1",
+    "siglas": "1",
+    "clave": "1"
+  },
+  "particularSancionado": {
+    "nombreRazonSocial": "1",
+    "objetoSocial": "1",
+    "rfc": "1",
+    "tipoPersona": "1",
+    "telefono": "1",
+    "domicilioMexico": {
+      "pais": {
+        "valor": "1",
+        "clave": "1"
+      },
+      "entidadFederativa": {
+        "valor": "1",
+        "clave": "1"
+      },
+      "municipio": {
+        "valor": "1",
+        "clave": "1"
+      },
+      "codigoPostal": "1",
+      "localidad": {
+        "valor": "1",
+        "clave": "1"
+      },
+      "vialidad": {
+        "clave": "1",
+        "valor": "1"
+      },
+      "numeroExterior": "1",
+      "numeroInterior": "1"
+    },
+    "domicilioExtranjero": {
+      "calle": "1",
+      "numeroExterior": "1",
+      "numeroInterior": "1",
+      "ciudadLocalidad": "1",
+      "estadoProvincia": "1",
+      "pais": {
+        "clave": "1",
+        "valor": "1"
+      },
+      "codigoPostal": "1"
+    },
+    "directorGeneral": {
+      "nombres": "1",
+      "primerApellido": "1",
+      "segundoApellido": "1",
+      "curp": "0"
+    },
+    "apoderadoLegal": {
+      "nombres": "1",
+      "primerApellido": "1",
+      "segundoApellido": "1",
+      "curp": "0"
+    }
+  },
+  "objetoContrato": "1",
+  "autoridadSancionadora": "1",
+  "tipoFalta": "1",
+  "tipoSancion": [{
+    "clave": "1",
+    "valor": "1"
+  }, {
+    "clave": "1",
+    "valor": "1"
+  }],
+  "causaMotivoHechos": "1",
+  "acto": "1",
+  "responsableSancion": {
+    "nombres": "1",
+    "primerApellido": "1",
+    "segundoApellido": "1"
+  },
+  "resolucion": {
+    "sentido": "1",
+    "url": "1",
+    "fechaNotificacion": "1"
+  },
+  "multa": {
+    "monto": "1",
+    "moneda": {
+      "clave": "1",
+      "valor": "1"
+    }
+  },
+  "inhabilitacion": {
+    "plazo": "1",
+    "fechaInicial": "1",
+    "fechaFinal": "1"
+  },
+  "observaciones": "1",
+  "documentos": [{
+    "id": "1",
+    "tipo": "1",
+    "titulo": "1",
+    "descripcion": "1",
+    "url": "1",
+    "fecha": "1"
+  }]
+}
