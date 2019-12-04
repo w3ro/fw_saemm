@@ -35,14 +35,8 @@
           "clave": "0",
           "valor": "0"
         },
-        "paisNacimiento": {
-          "clave": "0",
-          "valor": "0"
-        },
-        "nacionalidad": {
-          "clave": "0",
-          "valor": "0"
-        },
+        "paisNacimiento": "0",
+        "nacionalidad": "0",
         "aclaracionesObservaciones": "0"
       },
       "domicilioDeclarante": {
@@ -67,10 +61,7 @@
           "numeroInterior": "0",
           "ciudadLocalidad": "0",
           "estadoProvincia": "0",
-          "pais": {
-            "clave": "0",
-            "valor": "0"
-          },
+          "pais": "0",
           "codigoPostal": "0"
         },
         "aclaracionesObservaciones": "0"
@@ -102,7 +93,7 @@
         "nombreEntePublico": "1",
         "areaAdscripcion": "1",
         "empleoCargoComision": "1",
-        "contratadoPorHonorarios": "1",
+        "contratadoPorHonorarios": true,
         "nivelEmpleoCargoComision": "1",
         "funcionPrincipal": "1",
         "fechaTomaPosesion": "1",
@@ -131,21 +122,18 @@
           "numeroInterior": "1",
           "ciudadLocalidad": "1",
           "estadoProvincia": "1",
-          "pais": {
-            "clave": "1",
-            "valor": "1"
-          },
+          "pais": "1",
           "codigoPostal": "1"
         },
         "aclaracionesObservaciones": "0",
-        "cuentaConOtroCargoPublico": "1",
+        "cuentaConOtroCargoPublico": true,
         "otroEmpleoCargoComision": {
           "nivelOrdenGobierno": "1",
           "ambitoPublico": "1",
           "nombreEntePublico": "1",
           "areaAdscripcion": "1",
           "empleoCargoComision": "1",
-          "contratadoPorHonorarios": "1",
+          "contratadoPorHonorarios": true,
           "nivelEmpleoCargoComision": "1",
           "funcionPrincipal": "1",
           "fechaTomaPosesion": "1",
@@ -174,17 +162,14 @@
             "numeroInterior": "1",
             "ciudadLocalidad": "1",
             "estadoProvincia": "1",
-            "pais": {
-              "clave": "1",
-              "valor": "1"
-            },
+            "pais": "1",
             "codigoPostal": "1"
           },
           "aclaracionesObservaciones": "0"
         }
       },
       "experienciaLaboral": {
-        "ninguno": "1",
+        "ninguno": true,
         "experiencia": [
           {
             "tipoOperacion": "1",
@@ -224,7 +209,7 @@
         "aclaracionesObservaciones": "0"
       },
       "datosPareja": {
-        "ninguno": "1",
+        "ninguno": true,
         "tipoOperacion": "1",
         "nombre": "0",
         "primerApellido": "0",
@@ -232,10 +217,10 @@
         "fechaNacimiento": "0",
         "rfc": "0",
         "relacionConDeclarante": "0",
-        "ciudadanoExtranjero": "0",
+        "ciudadanoExtranjero": false,
         "curp": "0",
-        "esDependienteEconomico": "0",
-        "habitaDomicilioDeclarante": "0",
+        "esDependienteEconomico": false,
+        "habitaDomicilioDeclarante": false,
         "lugarDondeReside": "0",
         "domicilioMexico": {
           "calle": "0",
@@ -258,10 +243,7 @@
           "numeroInterior": "0",
           "ciudadLocalidad": "0",
           "estadoProvincia": "0",
-          "pais": {
-            "clave": "0",
-            "valor": "0"
-          },
+          "pais": "0",
           "codigoPostal": "0"
         },
         "actividadLaboral": {
@@ -276,11 +258,8 @@
           "empleoCargoComision": "0",
           "funcionPrincipal": "0",
           "salarioMensualNeto": {
-            "valor": "0",
-            "moneda": {
-              "clave": "1",
-              "valor": "1"
-            }
+            "valor": 0,
+            "moneda": "1"
           },
           "fechaIngreso": "0"
         },
@@ -294,18 +273,15 @@
             "valor": "0"
           },
           "salarioMensualNeto": {
-            "valor": "0",
-            "moneda": {
-              "clave": "1",
-              "valor": "1"
-            }
+            "valor": 0,
+            "moneda": "1"
           },
-          "proveedorContratistaGobierto": "0"
+          "proveedorContratistaGobierto": false
         },
         "aclaracionesObservaciones": "0"
       },
       "datosDependienteEconomico": {
-        "ninguno": "1",
+        "ninguno": true,
         "dependienteEconomico": [
           {
             "tipoOperacion": "1",
@@ -318,9 +294,9 @@
               "clave": "0",
               "valor": "0"
             },
-            "extranjero": "0",
+            "extranjero": false,
             "curp": "0",
-            "habitaDomicilioDeclarante": "0",
+            "habitaDomicilioDeclarante": false,
             "lugarDondeReside": "0",
             "domicilioMexico": {
               "calle": "0",
@@ -343,10 +319,7 @@
               "numeroInterior": "0",
               "ciudadLocalidad": "0",
               "estadoProvincia": "0",
-              "pais": {
-                "clave": "0",
-                "valor": "0"
-              },
+              "pais": "0",
               "codigoPostal": "0"
             },
             "actividadLaboral": {
@@ -361,28 +334,22 @@
               "empleoCargoComision": "0",
               "funcionPrincipal": "0",
               "salarioMensualNeto": {
-                "valor": "0",
-                "moneda": {
-                  "clave": "1",
-                  "valor": "1"
-                }
+                "valor": 0,
+                "moneda": "1"
               },
-              "fechaIngresoEmpleo": "0"
+              "fechaIngreso": "0"
             },
             "actividadLaboralSectorPrivadoOtro": {
               "nombreEmpresaSociedadAsociacion": "0",
               "rfc": "0",
               "empleoCargo": "0",
-              "fechaIngresoEmpleo": "0",
+              "fechaIngreso": "0",
               "salarioMensualNeto": {
-                "valor": "0",
-                "moneda": {
-                  "clave": "1",
-                  "valor": "1"
-                }
+                "valor": 0,
+                "moneda": "1"
               }
             },
-            "proveedorContratistaGobierno": "0",
+            "proveedorContratistaGobierno": false,
             "sector": {
               "clave": "0",
               "valor": "0"
@@ -393,98 +360,108 @@
       },
       "ingresos": {
         "remuneracionAnualCargoPublico": {
-          "valor": "1",
-          "moneda": {
-            "clave": "1",
-            "valor": "1"
-          }
+          "valor": 1,
+          "moneda": "1"
         },
         "otrosIngresosAnualesTotal": {
-          "valor": "1",
-          "moneda": {
-            "clave": "1",
-            "valor": "1"
-          }
+          "valor": 1,
+          "moneda": "1"
         },
         "actividadIndustialComercialEmpresarial": {
-          "remuneracion": {
-            "valor": "1",
-            "moneda": {
-              "clave": "1",
-              "valor": "1"
-            }
+          "remuneracionTotal": {
+            "valor": 1,
+            "moneda": "1"
           },
-          "nombreRazonSocial": "1",
-          "tipoNegocio": "1"
+          "actividades": [
+            {
+              "remuneracion": {
+                "valor": 1,
+                "moneda": "1"
+              },
+              "nombreRazonSocial": "1",
+              "tipoNegocio": "1"
+            }
+          ]
         },
         "actividadFinanciera": {
-          "remuneracion": {
-            "valor": "1",
-            "moneda": {
-              "clave": "1",
-              "valor": "1"
-            }
+          "remuneracionTotal": {
+            "valor": 1,
+            "moneda": "1"
           },
-          "tipoInstrumento": {
-            "clave": "1",
-            "valor": "1"
-          }
+          "actividades": [
+            {
+              "remuneracion": {
+                "valor": 1,
+                "moneda": "1"
+              },
+              "tipoInstrumento": {
+                "clave": "1",
+                "valor": "1"
+              }
+            }
+          ]
         },
         "serviciosProfesionales": {
-          "remuneracion": {
-            "valor": "1",
-            "moneda": {
-              "clave": "1",
-              "valor": "1"
-            }
+          "remuneracionTotal": {
+            "valor": 1,
+            "moneda": "1"
           },
-          "tipoServicio": "1"
+          "servicios": [
+            {
+              "remuneracion": {
+                "valor": 1,
+                "moneda": "1"
+              },
+              "tipoServicio": "1"
+            }
+          ]
         },
         "enajenacionBienes": {
-          "remuneracion": {
-            "valor": "1",
-            "moneda": {
-              "clave": "1",
-              "valor": "1"
-            }
+          "remuneracionTotal": {
+            "valor": 1,
+            "moneda": "1"
           },
-          "tipoBienEnajenado": "1"
+          "bienes": [
+            {
+              "remuneracion": {
+                "valor": 1,
+                "moneda": "1"
+              },
+              "tipoBienEnajenado": "1"
+            }
+          ]
         },
         "otrosIngresos": {
-          "remuneracion": {
-            "valor": "1",
-            "moneda": {
-              "clave": "1",
-              "valor": "1"
-            }
+          "remuneracionTotal": {
+            "valor": 1,
+            "moneda": "1"
           },
-          "tipoIngreso": "1"
+          "ingresos": [
+            {
+              "remuneracion": {
+                "valor": 1,
+                "moneda": "1"
+              },
+              "tipoIngreso": "1"
+            }
+          ]
         },
         "ingresoAnualNetoDeclarante": {
-          "valor": "1",
-          "moneda": {
-            "clave": "1",
-            "valor": "1"
-          }
+          "valor": 1,
+          "moneda": "1"
         },
         "ingresoAnualNetoParejaDependiente": {
-          "valor": "0",
-          "moneda": {
-            "clave": "1",
-            "valor": "1"
-          }
+          "valor": 0,
+          "moneda": "1"
         },
         "totalIngresosAnualesNetos": {
-          "valor": "1",
-          "moneda": {
-            "clave": "1",
-            "valor": "1"
-          }
+          "valor": 1,
+          "moneda": "1"
         },
         "aclaracionesObservaciones": "0"
       },
       "bienesInmuebles": {
-        "ninguno": "1",
+        "ninguno": true,
         "bienInmueble": [
           {
             "tipoOperacion": "1",
@@ -498,13 +475,13 @@
                 "valor": "2"
               }
             ],
-            "porcentajePropiedad": "1",
+            "porcentajePropiedad": 1,
             "superficieTerreno": {
-              "valor": "1",
+              "valor": 1,
               "unidad": "1"
             },
             "superficieConstruccion": {
-              "valor": "1",
+              "valor": 1,
               "unidad": "1"
             },
             "tercero": [
@@ -531,11 +508,8 @@
             },
             "formaPago": "1",
             "valorAdquisicion": {
-              "valor": "1",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 1,
+              "moneda": "1"
             },
             "fechaAdquiscion": "1",
             "datoIdentificacion": "0",
@@ -561,10 +535,7 @@
               "numeroInterior": "0",
               "ciudadLocalidad": "0",
               "estadoProvincia": "0",
-              "pais": {
-                "clave": "0",
-                "valor": "0"
-              },
+              "pais": "0",
               "codigoPostal": "0"
             },
             "motivoBaja": {
@@ -576,7 +547,7 @@
         "aclaracionesObservaciones": "0"
       },
       "vehiculos": {
-        "ninguno": "1",
+        "ninguno": true,
         "vehiculo": [
           {
             "tipoOperacion": "1",
@@ -603,7 +574,7 @@
             ],
             "marca": "1",
             "modelo": "1",
-            "anio": "1",
+            "anio": 1,
             "numeroSerieRegistro": "0",
             "tercero": [
               {
@@ -613,10 +584,7 @@
               }
             ],
             "lugarRegistro": {
-              "pais": {
-                "clave": "0",
-                "valor": "0"
-              },
+              "pais": "0",
               "entidadFederativa": {
                 "clave": "0",
                 "valor": "0"
@@ -628,11 +596,8 @@
             },
             "formaPago": "1",
             "valorAdquisicion": {
-              "valor": "1",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 1,
+              "moneda": "1"
             },
             "fechaAdquisicion": "1",
             "motivoBaja": {
@@ -644,7 +609,7 @@
         "aclaracionesObservaciones": "0"
       },
       "bienesMuebles": {
-        "ninguno": "1",
+        "ninguno": true,
         "bienMueble": [
           {
             "tipoOperacion": "1",
@@ -683,11 +648,8 @@
             },
             "formaPago": "1",
             "valorAdquisicion": {
-              "valor": "1",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 1,
+              "moneda": "1"
             },
             "fechaAdquisicion": "1",
             "motivoBaja": {
@@ -699,7 +661,7 @@
         "aclaracionesObservaciones": "0"
       },
       "inversiones": {
-        "ninguno": "1",
+        "ninguno": true,
         "inversion": [
           {
             "tipoOperacion": "1",
@@ -726,26 +688,20 @@
             ],
             "numeroCuentaContrato": "0",
             "localizacionInversion": {
-              "pais": {
-                "clave": "1",
-                "valor": "1"
-              },
+              "pais": "1",
               "institucionRazonSocial": "1",
               "rfc": "1"
             },
             "saldoDiciembreAnterior": {
-              "valor": "0",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 0,
+              "moneda": "1"
             }
           }
         ],
         "aclaracionesObservaciones": "0"
       },
       "adeudos": {
-        "ninguno": "1",
+        "ninguno": true,
         "adeudo": [
           {
             "tipoOperacion": "1",
@@ -762,18 +718,12 @@
             "numeroCuentaContrato": "0",
             "fechaAdquision": "1",
             "montoOriginal": {
-              "valor": "1",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 1,
+              "moneda": "1"
             },
             "saldoInsolutoDiciembreAnterior": {
-              "valor": "0",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 0,
+              "moneda": "1"
             },
             "tercero": [
               {
@@ -788,17 +738,14 @@
               "rfc": "2"
             },
             "localizacionAdeudo": {
-              "pais": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "pais": "1"
             }
           }
         ],
         "aclaracionesObservaciones": "0"
       },
       "prestamoOComodato": {
-        "ninguno": "1",
+        "ninguno": true,
         "prestamo": [
           {
             "tipoOperacion": "1",
@@ -829,10 +776,7 @@
                   "numeroInterior": "0",
                   "ciudadLocalidad": "0",
                   "estadoProvincia": "0",
-                  "pais": {
-                    "clave": "0",
-                    "valor": "0"
-                  },
+                  "pais": "0",
                   "codigoPostal": "0"
                 }
               },
@@ -843,13 +787,10 @@
                 },
                 "marca": "1",
                 "modelo": "1",
-                "anio": "1",
+                "anio": 1,
                 "numeroSerieRegistro": "0",
                 "lugarRegistro": {
-                  "pais": {
-                    "clave": "0",
-                    "valor": "0"
-                  },
+                  "pais": "0",
                   "entidadFederativa": {
                     "clave": "0",
                     "valor": "0"
@@ -870,31 +811,25 @@
     },
     "interes": {
       "participacion": {
-        "ninguno": "1",
+        "ninguno": true,
         "participacion": [
           {
             "tipoOperacion": "1",
             "tipoRelacion": "1",
             "nombreEmpresaSociedadAsociacion": "1",
             "rfc": "1",
-            "porcentajeParticipacion": "1",
+            "porcentajeParticipacion": 1,
             "tipoParticipacion": {
               "clave": "1",
               "valor": "1"
             },
-            "recibeRemuneracion": "1",
+            "recibeRemuneracion": true,
             "montoMensual": {
-              "valor": "1",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 1,
+              "moneda": "1"
             },
             "ubicacion": {
-              "pais": {
-                "clave": "1",
-                "valor": "1"
-              },
+              "pais": "1",
               "entidadFederativa": {
                 "clave": "1",
                 "valor": "1"
@@ -909,7 +844,7 @@
         "aclaracionesObservaciones": "0"
       },
       "participacionTomaDecisiones": {
-        "ninguno": "1",
+        "ninguno": true,
         "participacion": [
           {
             "tipoOperacion": "1",
@@ -922,19 +857,13 @@
             "rfc": "2",
             "puestoRol": "1",
             "fechaInicioParticipacion": "1",
-            "recibeRemuneracion": "1",
+            "recibeRemuneracion": true,
             "montoMensual": {
-              "valor": "1",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 1,
+              "moneda": "1"
             },
             "ubicacion": {
-              "pais": {
-                "clave": "1",
-                "valor": "1"
-              },
+              "pais": "1",
               "entidadFederativa": {
                 "clave": "1",
                 "valor": "1"
@@ -945,7 +874,7 @@
         "aclaracionesObservaciones": "0"
       },
       "apoyos": {
-        "ninguno": "1",
+        "ninguno": true,
         "apoyo": [
           {
             "tipoOperacion": "1",
@@ -962,11 +891,8 @@
             },
             "formaRecepcion": "1",
             "montoApoyoMensual": {
-              "valor": "1",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 1,
+              "moneda": "1"
             },
             "especifiqueApoyo": "1"
           }
@@ -974,7 +900,7 @@
         "aclaracionesObservaciones": "0"
       },
       "representacion": {
-        "ninguno": "1",
+        "ninguno": true,
         "representacion": [
           {
             "tipoOperacion": "1",
@@ -984,19 +910,13 @@
             "tipoPersona": "1",
             "nombreRazonSocial": "2",
             "rfc": "2",
-            "recibeRemuneracion": "1",
+            "recibeRemuneracion": true,
             "montoMensual": {
-              "valor": "1",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 1,
+              "moneda": "1"
             },
             "ubicacion": {
-              "pais": {
-                "clave": "1",
-                "valor": "1"
-              },
+              "pais": "1",
               "entidadFederativa": {
                 "clave": "1",
                 "valor": "1"
@@ -1011,11 +931,11 @@
         "aclaracionesObservaciones": "0"
       },
       "clientesPrincipales": {
-        "ninguno": "1",
+        "ninguno": true,
         "cliente": [
           {
             "tipoOperacion": "1",
-            "realizaActividadLucrativa": "1",
+            "realizaActividadLucrativa": true,
             "tipoRelacion": "1",
             "empresa": {
               "nombreEmpresaServicio": "1",
@@ -1031,17 +951,11 @@
               "valor": "1"
             },
             "montoAproximadoGanancia": {
-              "valor": "1",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 1,
+              "moneda": "1"
             },
             "ubicacion": {
-              "pais": {
-                "clave": "1",
-                "valor": "1"
-              },
+              "pais": "1",
               "entidadFederativa": {
                 "clave": "1",
                 "valor": "1"
@@ -1052,7 +966,7 @@
         "aclaracionesObservaciones": "0"
       },
       "beneficiosPrivados": {
-        "ninguno": "1",
+        "ninguno": true,
         "beneficio": [
           {
             "tipoOperacion": "1",
@@ -1074,11 +988,8 @@
             "formaRecepcion": "1",
             "especifiqueBeneficio": "1",
             "montoMensualAproximado": {
-              "valor": "1",
-              "moneda": {
-                "clave": "1",
-                "valor": "1"
-              }
+              "valor": 1,
+              "moneda": "1"
             },
             "sector": {
               "clave": "1",
@@ -1089,7 +1000,7 @@
         "aclaracionesObservaciones": "0"
       },
       "fideicomisos": {
-        "ninguno": "1",
+        "ninguno": true,
         "fideicomiso": [
           {
             "tipoOperacion": "1",
