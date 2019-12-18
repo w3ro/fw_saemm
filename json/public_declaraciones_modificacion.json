@@ -276,7 +276,7 @@
             "valor": 0,
             "moneda": "1"
           },
-          "proveedorContratistaGobierto": false
+          "proveedorContratistaGobierno": false
         },
         "aclaracionesObservaciones": "0"
       },
@@ -511,7 +511,7 @@
               "valor": 1,
               "moneda": "1"
             },
-            "fechaAdquiscion": "1",
+            "fechaAdquisicion": "1",
             "datoIdentificacion": "0",
             "valorConformeA": "1",
             "domicilioMexico": {
@@ -716,7 +716,7 @@
               "valor": "1"
             },
             "numeroCuentaContrato": "0",
-            "fechaAdquision": "1",
+            "fechaAdquisicion": "1",
             "montoOriginal": {
               "valor": 1,
               "moneda": "1"
